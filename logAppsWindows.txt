@@ -1,0 +1,74 @@
+Data: 2024-10-01 10:15:23
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1001
+Descrição: O aplicativo foi iniciado com sucesso.
+
+Data: 2024-10-01 10:16:45
+Fonte: Serviço de Backup
+ID do Evento: 2002
+Descrição: O backup foi concluído sem erros.
+
+Data: 2024-10-01 10:17:30
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1002
+Descrição: Ocorreu um erro ao acessar o banco de dados. Verifique a conexão.
+
+Data: 2024-10-01 10:18:12
+Fonte: Serviço de Atualização
+ID do Evento: 3001
+Descrição: Atualização disponível. Iniciando o download.
+
+Data: 2024-10-01 10:19:00
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1003
+Descrição: O aplicativo foi fechado pelo usuário.
+
+Data: 2024-10-01 10:20:05
+Fonte: Serviço de Backup
+ID do Evento: 2003
+Descrição: O backup falhou. Espaço em disco insuficiente.
+
+Data: 2024-10-01 10:21:10
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1001
+Descrição: O aplicativo foi reiniciado automaticamente após falha.
+
+Data: 2024-10-01 10:22:15
+Fonte: Serviço de Atualização
+ID do Evento: 3002
+Descrição: Download da atualização concluído. Iniciando a instalação.
+
+Data: 2024-10-01 10:23:20
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1004
+Descrição: Configurações do usuário foram salvas com sucesso.
+
+Data: 2024-10-01 10:24:25
+Fonte: Serviço de Backup
+ID do Evento: 2004
+Descrição: Backup agendado para as 23:00.
+
+Data: 2024-10-01 10:25:30
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1005
+Descrição: Ocorreu um erro inesperado. O aplicativo será encerrado.
+
+Data: 2024-10-01 10:26:35
+Fonte: Serviço de Atualização
+ID do Evento: 3003
+Descrição: Instalação da atualização concluída com sucesso.
+
+Data: 2024-10-01 10:27:40
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1006
+Descrição: O aplicativo está funcionando normalmente.
+
+Data: 2024-10-01 10:28:45
+Fonte: Serviço de Backup
+ID do Evento: 2005
+Descrição: O backup foi pausado pelo usuário.
+
+Data: 2024-10-01 10:29:50
+Fonte: Aplicativo de Exemplo
+ID do Evento: 1007
+Descrição: Nova versão do aplicativo detectada. Atualização recomendada.
