@@ -20,28 +20,10 @@ from nltk.stem import PorterStemmer
 import nltk
 from src.data_loader import load_logs
 from src.preprocessor import preprocess_text
+from src.classifiers.rule_based import classify_log
+from src.alert_system import generate_critical_alerts
 nltk.download('stopwords')
 
-
-
-
-
-def classify_log(descricao):
-    """
-    CLASSIFICAÇÃO INICIAL (BASE PARA TREINO)
-    Regras básicas para criar labels:
-    - Crítico: contém palavras como 'erro', 'falha'
-    - Suspeito: contém 'atualização', 'reinicio'
-    - Normal: outros casos
-    """
-    criticas = ['erro', 'falhou', 'insuficiente', 'encerrado']
-    suspeitas = ['atualização', 'reiniciado', 'pausado']
-    
-    if any(word in descricao.lower() for word in criticas):
-        return 'Crítico'
-    elif any(word in descricao.lower() for word in suspeitas):
-        return 'Suspeito'
-    return 'Normal'
 
 # EXECUÇÃO PRINCIPAL
 if __name__ == "__main__":
@@ -65,11 +47,7 @@ if __name__ == "__main__":
     df['Predicao_IA'] = model.predict(X)
     
     # SISTEMA DE ALERTAS EM TEMPO REAL
-    alertas = df[df['Predicao_IA'] == 'Crítico']
-    if not alertas.empty:
-        print("\n🚨 ALERTAS CRÍTICOS DETECTADOS 🚨")
-        for _, row in alertas.iterrows():
-            print(f"[{row['Data']}] {row['Fonte']} - {row['Descricao']}")
+    alertas = generate_critical_alerts(df)
     
     # VISUALIZAÇÃO DOS RESULTADOS
     plt.figure(figsize=(15, 6))
