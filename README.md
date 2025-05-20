@@ -77,11 +77,11 @@ winlog-classifier/
 
 4. **Preparar os dados de logs**:
 
-   * Por padrão, o arquivo de exemplo `massive_logs_windows.csv` já está pronto em `app/docs/`.
+   * Por padrão, o arquivo de exemplo `massive_logs_windows.txt` já está pronto em `app/docs/`.
    * Caso deseje é possível gerar um novo arquivo rodando o script **simuladorDeLogs.py**
 
 5. **Executar Projeto**
-    * Para executar o Projeto utilize os seguintes comandos uma vez estando diretorio `winlog-classifier`.
+    * Para executar o Projeto utilize os seguintes comandos uma vez estando no diretorio `winlog-classifier`.
     * cd app
     * py main.py 
 
