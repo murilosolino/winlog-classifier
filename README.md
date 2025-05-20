@@ -31,13 +31,23 @@ Todas as dependências estão listadas em `requirements.txt`.
 ```
 winlog-classifier/
 ├── app/
-│   ├── classifier.py       # Script principal de classificação
-│   ├── utils.py            # Funções auxiliares
-│   └── data/
-│       └── massive_logs_windows.csv  # Exemplo de logs de entrada
+│   ├── docs/                   # Documentos e ambiente
+│   │   ├── logAppsWindows.txt  # Regras e mapeamentos de Event IDs
+│   │   ├── massive_logs_windows.txt  # Exemplo de logs
+│   │   └── requirements.txt    # Dependências Python
+│   └── src/                    # Código-fonte
+│       ├── classifiers/        # Implementação de classificadores
+│       │   ├── rule_based.py   # Classificador baseado em regras
+│       │   └── __pycache__/
+│       ├── alert_system.py     # Sistema de emissão de alertas
+│       ├── data_loader.py      # Carregamento e pré-processamento de dados
+│       ├── ml_model.py         # Definição e treino de modelo ML
+│       ├── preprocessor.py     # Limpeza e transformação de dados
+│       ├── main.py             # Ponto de entrada da aplicação
+│       ├── no_ia.py            # Fluxo sem uso de IA (apenas regras)
+│       └── simuladorDeLogs.py  # Gerador de logs de teste
 ├── .gitignore
-├── README.md              # Este arquivo
-└── requirements.txt       # Dependências Python
+└── README.md                   # Este arquivo
 ```
 
 ## 5. Pré-requisitos
@@ -53,40 +63,31 @@ winlog-classifier/
    ```bash
    git clone https://github.com/murilosolino/winlog-classifier.git
    cd winlog-classifier
-   ```
-
-2. **Criar e ativar ambiente virtual (recomendado)**:
-
-   ```bash
-   python -m venv venv
-   # No Windows (PowerShell):
-   .\venv\Scripts\Activate.ps1
-
-   # No macOS/Linux:
-   source venv/bin/activate
-   ```
-
+   ``
 3. **Instalar dependências**:
 
    ```bash
-   pip install -r requirements.txt
+   pip install pandas
+   pip install nltk
+   pip install matplotlib
+   pip install seaborn
+   pip install scikit-learn
    ```
 
 4. **Preparar os dados de logs**:
 
-   * Por padrão, o arquivo de exemplo `massive_logs_windows.csv` já está em `app/data/`.
-   * Para utilizar outros logs, copie seu arquivo `.csv` para esse diretório.
+   * Por padrão, o arquivo de exemplo `massive_logs_windows.csv` já está pronto em `app/docs/`.
+   * Caso deseje é possível gerar um novo arquivo rodando o script **simuladorDeLogs.py**
 
-5. **Executar o classificador**:
+5. **Executar Projeto**
+    * Para executar o Projeto utilize os seguintes comandos uma vez estando diretorio `winlog-classifier`.
+    * cd app
+    * py main.py 
 
-   ```bash
-   python app/classifier.py --input app/data/massive_logs_windows.csv --output results
-   ```
+    * Para executar o exemplo sem o uso de IA utilize os seguintes comandos uma vez estando no diretorio `winlog-classifier`
+    * cd app
+    * py no_ia.py 
 
-   Onde:
-
-   * `--input`: caminho para o arquivo de logs;
-   * `--output`: diretório para salvar saídas (alertas, gráficos e relatório de métricas).
 
 6. **Visualizar resultados**:
 
@@ -108,7 +109,7 @@ Ao final da execução, um arquivo `report.txt` é gerado em `results/`, contend
 
 Essas métricas permitem avaliar o desempenho do classificador em diferentes cenários.
 
-## 9. Autores e Contato
+## Autores e Contato
 
 * **Cauã Pacheco de Souza**
 * **Murilo Almeida Solino de Oliveira**
