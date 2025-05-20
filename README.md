@@ -113,5 +113,3 @@ Essas métricas permitem avaliar o desempenho do classificador em diferentes cen
 
 * **Cauã Pacheco de Souza**
 * **Murilo Almeida Solino de Oliveira**
-
-Para dúvidas ou feedback, entre em contato por e-mail.
