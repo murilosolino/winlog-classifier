@@ -21,8 +21,9 @@ O sistema identifica e alerta sobre logs com indícios de criticidade, além de 
 
 * **Python 3.6+**
 * **scikit-learn**: criação e aplicação de modelos de ML;
-* **pandas**, **numpy**: manipulação de dados;
-* **matplotlib**: geração de gráficos.
+* **pandas**: manipulação de dados;
+* **matplotlib**, **seaborn**: geração de gráficos.
+* **nltk**: processamento de linguagem natural
 
 Todas as dependências estão listadas em `requirements.txt`.
 
