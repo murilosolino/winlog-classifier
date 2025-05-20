@@ -88,7 +88,6 @@ winlog-classifier/
     * cd app
     * py no_ia.py 
 
-
 6. **Visualizar resultados**:
 
    * Alertas de criticidade serão exibidos no terminal.
