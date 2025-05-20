@@ -1,0 +1,5000 @@
+Data: 2025-04-19 21:51:48
+Fonte: Segurança do Sistema
+ID do Evento: 5955
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-19 21:54:45
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7053
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-19 21:58:41
+Fonte: Aplicativo Financeiro
+ID do Evento: 5746
+Descrição: Tentativa de login suspeita de 192.168.167.238
+
+Data: 2025-04-19 22:03:31
+Fonte: Serviço de Autenticação
+ID do Evento: 7086
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-19 22:04:57
+Fonte: Antivirus
+ID do Evento: 2273
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-19 22:07:04
+Fonte: Monitor de Desempenho
+ID do Evento: 7047
+Descrição: Latência alta na rede: 1201ms
+
+Data: 2025-04-19 22:11:55
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5080
+Descrição: Falha na autenticação do usuário: USER-2361
+
+Data: 2025-04-19 22:15:53
+Fonte: Interface de Rede
+ID do Evento: 2141
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-19 22:19:35
+Fonte: Monitor de Desempenho
+ID do Evento: 8909
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-19 22:20:51
+Fonte: Serviço de Autenticação
+ID do Evento: 5703
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-19 22:22:34
+Fonte: Monitor de Desempenho
+ID do Evento: 6550
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-19 22:27:12
+Fonte: Aplicativo Financeiro
+ID do Evento: 3061
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-19 22:28:22
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4301
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-19 22:31:36
+Fonte: Navegador Web
+ID do Evento: 3056
+Descrição: Tentativa de login suspeita de 192.168.32.68
+
+Data: 2025-04-19 22:34:12
+Fonte: Antivirus
+ID do Evento: 5860
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-19 22:37:44
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1336
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-19 22:38:31
+Fonte: Antivirus
+ID do Evento: 4006
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-19 22:40:39
+Fonte: Interface de Rede
+ID do Evento: 3084
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-19 22:41:30
+Fonte: Segurança do Sistema
+ID do Evento: 1090
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-19 22:46:01
+Fonte: Segurança do Sistema
+ID do Evento: 4995
+Descrição: Operação concluída em 1256s
+
+Data: 2025-04-19 22:49:49
+Fonte: Player de Mídia
+ID do Evento: 3602
+Descrição: Tentativa de login suspeita de 192.168.243.7
+
+Data: 2025-04-19 22:51:55
+Fonte: Interface de Rede
+ID do Evento: 9234
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-19 22:54:18
+Fonte: Serviço de Email
+ID do Evento: 5523
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-19 22:56:19
+Fonte: Player de Mídia
+ID do Evento: 1039
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-19 22:58:18
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5715
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-19 22:59:00
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7023
+Descrição: Comportamento anômalo detectado na porta 18567
+
+Data: 2025-04-19 23:03:31
+Fonte: Antivirus
+ID do Evento: 2572
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-19 23:06:18
+Fonte: Gerenciador de Atualizações
+ID do Evento: 8913
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-19 23:11:11
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9972
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-19 23:12:50
+Fonte: Serviço de Backup
+ID do Evento: 3746
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-19 23:17:24
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3267
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-19 23:18:04
+Fonte: Monitor de Desempenho
+ID do Evento: 4085
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-19 23:19:41
+Fonte: Segurança do Sistema
+ID do Evento: 9447
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-19 23:23:15
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 7911
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-19 23:27:58
+Fonte: Serviço de Autenticação
+ID do Evento: 3126
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-19 23:28:52
+Fonte: Segurança do Sistema
+ID do Evento: 7520
+Descrição: Operação concluída em 3587s
+
+Data: 2025-04-19 23:33:13
+Fonte: Segurança do Sistema
+ID do Evento: 9727
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-19 23:37:41
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4045
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-19 23:40:01
+Fonte: Serviço de Autenticação
+ID do Evento: 1068
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-19 23:42:25
+Fonte: Segurança do Sistema
+ID do Evento: 1694
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-19 23:45:01
+Fonte: Segurança do Sistema
+ID do Evento: 4419
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-19 23:47:32
+Fonte: Segurança do Sistema
+ID do Evento: 5229
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-19 23:49:31
+Fonte: Serviço de Autenticação
+ID do Evento: 8088
+Descrição: Mudança de permissões em arquivo sensível: arquivo_41.db
+
+Data: 2025-04-19 23:50:15
+Fonte: Aplicativo Financeiro
+ID do Evento: 2147
+Descrição: Tentativa de login suspeita de 192.168.245.206
+
+Data: 2025-04-19 23:54:50
+Fonte: Serviço de Autenticação
+ID do Evento: 9412
+Descrição: Atualização 2.0.9 instalada
+
+Data: 2025-04-19 23:57:00
+Fonte: Monitor de Desempenho
+ID do Evento: 3038
+Descrição: Latência alta na rede: 796ms
+
+Data: 2025-04-20 00:01:41
+Fonte: Antivirus
+ID do Evento: 3479
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 00:03:02
+Fonte: Serviço de Backup
+ID do Evento: 5694
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 00:06:58
+Fonte: Aplicativo Financeiro
+ID do Evento: 5700
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 00:11:36
+Fonte: Segurança do Sistema
+ID do Evento: 1760
+Descrição: Tentativa de login suspeita de 192.168.24.25
+
+Data: 2025-04-20 00:13:40
+Fonte: Serviço de Backup
+ID do Evento: 6472
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 00:15:21
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5465
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 00:16:32
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4050
+Descrição: Operação concluída em 566s
+
+Data: 2025-04-20 00:19:06
+Fonte: Serviço de Backup
+ID do Evento: 3042
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 00:22:37
+Fonte: Player de Mídia
+ID do Evento: 4718
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-20 00:25:32
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9265
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 00:29:29
+Fonte: Servidor de Banco de Dados
+ID do Evento: 8613
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 00:31:37
+Fonte: Antivirus
+ID do Evento: 1569
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 00:35:54
+Fonte: Antivirus
+ID do Evento: 5872
+Descrição: Operação concluída em 3418s
+
+Data: 2025-04-20 00:38:45
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 4183
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-20 00:41:26
+Fonte: Aplicativo Financeiro
+ID do Evento: 6528
+Descrição: Comportamento anômalo detectado na porta 31825
+
+Data: 2025-04-20 00:45:05
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4838
+Descrição: Falha na autenticação do usuário: USER-1247
+
+Data: 2025-04-20 00:46:02
+Fonte: Player de Mídia
+ID do Evento: 1338
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 00:48:17
+Fonte: Serviço de Email
+ID do Evento: 1049
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 00:49:19
+Fonte: Navegador Web
+ID do Evento: 4623
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 00:52:04
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9379
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 00:52:54
+Fonte: Segurança do Sistema
+ID do Evento: 3869
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 00:55:54
+Fonte: Antivirus
+ID do Evento: 5070
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 00:57:48
+Fonte: Navegador Web
+ID do Evento: 4897
+Descrição: Usuário USER-4599 logou com sucesso
+
+Data: 2025-04-20 01:02:25
+Fonte: Segurança do Sistema
+ID do Evento: 7216
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 01:03:19
+Fonte: Segurança do Sistema
+ID do Evento: 6390
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 01:05:41
+Fonte: Aplicativo Financeiro
+ID do Evento: 8651
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 01:07:59
+Fonte: Monitor de Desempenho
+ID do Evento: 7318
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 01:11:56
+Fonte: Segurança do Sistema
+ID do Evento: 8877
+Descrição: Atualização 2.1.5 instalada
+
+Data: 2025-04-20 01:15:45
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3715
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 01:18:21
+Fonte: Interface de Rede
+ID do Evento: 2387
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 01:19:56
+Fonte: Serviço de Autenticação
+ID do Evento: 5064
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 01:21:23
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1953
+Descrição: Latência alta na rede: 823ms
+
+Data: 2025-04-20 01:22:50
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2856
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 01:23:27
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7015
+Descrição: Mudança de permissões em arquivo sensível: arquivo_92.db
+
+Data: 2025-04-20 01:24:14
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2885
+Descrição: Operação concluída em 2973s
+
+Data: 2025-04-20 01:28:16
+Fonte: Navegador Web
+ID do Evento: 3415
+Descrição: Falha na autenticação do usuário: USER-2992
+
+Data: 2025-04-20 01:32:58
+Fonte: Segurança do Sistema
+ID do Evento: 3946
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 01:37:38
+Fonte: Monitor de Desempenho
+ID do Evento: 9996
+Descrição: Mudança de permissões em arquivo sensível: arquivo_82.db
+
+Data: 2025-04-20 01:40:38
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9042
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 01:43:00
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4162
+Descrição: Usuário USER-9428 logou com sucesso
+
+Data: 2025-04-20 01:44:27
+Fonte: Aplicativo Financeiro
+ID do Evento: 2446
+Descrição: Comportamento anômalo detectado na porta 53638
+
+Data: 2025-04-20 01:46:05
+Fonte: Player de Mídia
+ID do Evento: 3015
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 01:49:22
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3056
+Descrição: Tentativa de login suspeita de 192.168.92.176
+
+Data: 2025-04-20 01:51:19
+Fonte: Gerenciador de Atualizações
+ID do Evento: 9046
+Descrição: Operação concluída em 3542s
+
+Data: 2025-04-20 01:54:10
+Fonte: Segurança do Sistema
+ID do Evento: 1036
+Descrição: Atualização 5.9.3 instalada
+
+Data: 2025-04-20 01:56:09
+Fonte: Serviço de Email
+ID do Evento: 3199
+Descrição: Tentativa de login suspeita de 192.168.158.13
+
+Data: 2025-04-20 01:58:06
+Fonte: Serviço de Email
+ID do Evento: 9845
+Descrição: Mudança de permissões em arquivo sensível: arquivo_41.db
+
+Data: 2025-04-20 02:01:10
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2616
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 02:03:48
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9515
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-20 02:06:26
+Fonte: Serviço de Backup
+ID do Evento: 5875
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 02:07:41
+Fonte: Serviço de Backup
+ID do Evento: 7050
+Descrição: Latência alta na rede: 245ms
+
+Data: 2025-04-20 02:11:51
+Fonte: Monitor de Desempenho
+ID do Evento: 2494
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 02:14:45
+Fonte: Serviço de Email
+ID do Evento: 2135
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 02:18:19
+Fonte: Serviço de Email
+ID do Evento: 8173
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-20 02:19:48
+Fonte: Servidor de Banco de Dados
+ID do Evento: 6398
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 02:22:56
+Fonte: Serviço de Backup
+ID do Evento: 4243
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-20 02:27:08
+Fonte: Segurança do Sistema
+ID do Evento: 3012
+Descrição: Comportamento anômalo detectado na porta 45906
+
+Data: 2025-04-20 02:29:35
+Fonte: Serviço de Email
+ID do Evento: 6627
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 02:30:38
+Fonte: Navegador Web
+ID do Evento: 7213
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 02:34:18
+Fonte: Serviço de Autenticação
+ID do Evento: 8350
+Descrição: Corrupção de dados no arquivo: arquivo_82.db
+
+Data: 2025-04-20 02:37:32
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7260
+Descrição: Operação concluída em 1767s
+
+Data: 2025-04-20 02:41:26
+Fonte: Navegador Web
+ID do Evento: 7348
+Descrição: Comportamento anômalo detectado na porta 55888
+
+Data: 2025-04-20 02:43:52
+Fonte: Serviço de Email
+ID do Evento: 4242
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 02:48:23
+Fonte: Interface de Rede
+ID do Evento: 1013
+Descrição: Atualização 2.0.0 instalada
+
+Data: 2025-04-20 02:49:23
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 2238
+Descrição: Falha na autenticação do usuário: USER-6634
+
+Data: 2025-04-20 02:50:59
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7612
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 02:52:38
+Fonte: Antivirus
+ID do Evento: 6432
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 02:55:55
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9925
+Descrição: Tentativa de login suspeita de 192.168.142.103
+
+Data: 2025-04-20 02:58:26
+Fonte: Aplicativo Financeiro
+ID do Evento: 3012
+Descrição: Latência alta na rede: 826ms
+
+Data: 2025-04-20 03:02:21
+Fonte: Antivirus
+ID do Evento: 8235
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-20 03:04:29
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2302
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 03:06:48
+Fonte: Monitor de Desempenho
+ID do Evento: 2204
+Descrição: Falha na autenticação do usuário: USER-6215
+
+Data: 2025-04-20 03:08:23
+Fonte: Monitor de Desempenho
+ID do Evento: 1707
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 03:12:38
+Fonte: Serviço de Autenticação
+ID do Evento: 9310
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 03:14:27
+Fonte: Aplicativo Financeiro
+ID do Evento: 1095
+Descrição: Operação concluída em 2498s
+
+Data: 2025-04-20 03:17:19
+Fonte: Aplicativo Financeiro
+ID do Evento: 2136
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 03:22:12
+Fonte: Segurança do Sistema
+ID do Evento: 5499
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-20 03:24:41
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3877
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 03:25:58
+Fonte: Gerenciador de Atualizações
+ID do Evento: 9295
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-20 03:30:14
+Fonte: Serviço de Backup
+ID do Evento: 4072
+Descrição: Atualização 4.7.1 instalada
+
+Data: 2025-04-20 03:31:54
+Fonte: Aplicativo Financeiro
+ID do Evento: 3922
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 03:35:02
+Fonte: Monitor de Desempenho
+ID do Evento: 6913
+Descrição: Corrupção de dados no arquivo: arquivo_2.db
+
+Data: 2025-04-20 03:39:35
+Fonte: Aplicativo Financeiro
+ID do Evento: 9968
+Descrição: Comportamento anômalo detectado na porta 25778
+
+Data: 2025-04-20 03:44:11
+Fonte: Segurança do Sistema
+ID do Evento: 3441
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 03:45:51
+Fonte: Segurança do Sistema
+ID do Evento: 4541
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 03:48:20
+Fonte: Antivirus
+ID do Evento: 2858
+Descrição: Tentativa de login suspeita de 192.168.42.117
+
+Data: 2025-04-20 03:52:29
+Fonte: Antivirus
+ID do Evento: 9613
+Descrição: Comportamento anômalo detectado na porta 41072
+
+Data: 2025-04-20 03:53:06
+Fonte: Serviço de Backup
+ID do Evento: 3490
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 03:56:52
+Fonte: Monitor de Desempenho
+ID do Evento: 1329
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 03:59:30
+Fonte: Navegador Web
+ID do Evento: 9879
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 04:03:53
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9564
+Descrição: Usuário USER-6161 logou com sucesso
+
+Data: 2025-04-20 04:06:06
+Fonte: Serviço de Autenticação
+ID do Evento: 7603
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-20 04:06:59
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3533
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 04:11:07
+Fonte: Servidor de Banco de Dados
+ID do Evento: 3075
+Descrição: Tentativa de login suspeita de 192.168.146.120
+
+Data: 2025-04-20 04:16:00
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9232
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 04:18:25
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7072
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 04:22:31
+Fonte: Antivirus
+ID do Evento: 3333
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 04:23:07
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5357
+Descrição: Mudança de permissões em arquivo sensível: arquivo_84.db
+
+Data: 2025-04-20 04:25:04
+Fonte: Navegador Web
+ID do Evento: 4859
+Descrição: Atualização 5.0.9 instalada
+
+Data: 2025-04-20 04:25:38
+Fonte: Navegador Web
+ID do Evento: 5092
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 04:28:51
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7506
+Descrição: Usuário USER-5757 logou com sucesso
+
+Data: 2025-04-20 04:31:25
+Fonte: Serviço de Email
+ID do Evento: 6358
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 04:34:55
+Fonte: Monitor de Desempenho
+ID do Evento: 7930
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-20 04:36:25
+Fonte: Serviço de Backup
+ID do Evento: 3796
+Descrição: Latência alta na rede: 1154ms
+
+Data: 2025-04-20 04:39:48
+Fonte: Monitor de Desempenho
+ID do Evento: 4072
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 04:40:37
+Fonte: Player de Mídia
+ID do Evento: 3079
+Descrição: Comportamento anômalo detectado na porta 65112
+
+Data: 2025-04-20 04:43:45
+Fonte: Segurança do Sistema
+ID do Evento: 4690
+Descrição: Corrupção de dados no arquivo: arquivo_98.db
+
+Data: 2025-04-20 04:44:43
+Fonte: Serviço de Autenticação
+ID do Evento: 7848
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 04:45:35
+Fonte: Serviço de Autenticação
+ID do Evento: 5056
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 04:49:13
+Fonte: Monitor de Desempenho
+ID do Evento: 5145
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-20 04:51:49
+Fonte: Navegador Web
+ID do Evento: 5002
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 04:53:30
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7392
+Descrição: Corrupção de dados no arquivo: arquivo_71.db
+
+Data: 2025-04-20 04:55:56
+Fonte: Interface de Rede
+ID do Evento: 6308
+Descrição: Operação concluída em 2505s
+
+Data: 2025-04-20 05:00:01
+Fonte: Serviço de Email
+ID do Evento: 5625
+Descrição: Atualização 5.2.7 instalada
+
+Data: 2025-04-20 05:03:26
+Fonte: Monitor de Desempenho
+ID do Evento: 5018
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 05:07:08
+Fonte: Interface de Rede
+ID do Evento: 1090
+Descrição: Usuário USER-9572 logou com sucesso
+
+Data: 2025-04-20 05:10:41
+Fonte: Serviço de Autenticação
+ID do Evento: 1069
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-20 05:12:53
+Fonte: Monitor de Desempenho
+ID do Evento: 3015
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 05:13:45
+Fonte: Serviço de Backup
+ID do Evento: 1745
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 05:15:33
+Fonte: Antivirus
+ID do Evento: 6676
+Descrição: Mudança de permissões em arquivo sensível: arquivo_69.db
+
+Data: 2025-04-20 05:16:44
+Fonte: Navegador Web
+ID do Evento: 3032
+Descrição: Tentativa de login suspeita de 192.168.97.228
+
+Data: 2025-04-20 05:18:59
+Fonte: Aplicativo Financeiro
+ID do Evento: 1075
+Descrição: Atualização 3.1.5 instalada
+
+Data: 2025-04-20 05:23:20
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1527
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 05:27:13
+Fonte: Navegador Web
+ID do Evento: 2278
+Descrição: Falha na autenticação do usuário: USER-7738
+
+Data: 2025-04-20 05:31:47
+Fonte: Player de Mídia
+ID do Evento: 8546
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 05:36:45
+Fonte: Serviço de Email
+ID do Evento: 2217
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 05:38:05
+Fonte: Servidor de Banco de Dados
+ID do Evento: 3041
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-20 05:40:08
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7454
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 05:42:44
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1007
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 05:47:34
+Fonte: Serviço de Email
+ID do Evento: 5574
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 05:50:42
+Fonte: Aplicativo Financeiro
+ID do Evento: 2451
+Descrição: Falha na autenticação do usuário: USER-6190
+
+Data: 2025-04-20 05:53:33
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5022
+Descrição: Falha na autenticação do usuário: USER-5565
+
+Data: 2025-04-20 05:55:07
+Fonte: Serviço de Autenticação
+ID do Evento: 6755
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 05:58:08
+Fonte: Serviço de Email
+ID do Evento: 5544
+Descrição: Mudança de permissões em arquivo sensível: arquivo_58.db
+
+Data: 2025-04-20 06:00:25
+Fonte: Player de Mídia
+ID do Evento: 9451
+Descrição: Mudança de permissões em arquivo sensível: arquivo_47.db
+
+Data: 2025-04-20 06:03:38
+Fonte: Player de Mídia
+ID do Evento: 2947
+Descrição: Latência alta na rede: 537ms
+
+Data: 2025-04-20 06:04:18
+Fonte: Interface de Rede
+ID do Evento: 1003
+Descrição: Operação concluída em 693s
+
+Data: 2025-04-20 06:04:48
+Fonte: Antivirus
+ID do Evento: 4648
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 06:08:08
+Fonte: Player de Mídia
+ID do Evento: 6952
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 06:09:18
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5837
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 06:13:40
+Fonte: Antivirus
+ID do Evento: 7065
+Descrição: Latência alta na rede: 272ms
+
+Data: 2025-04-20 06:18:23
+Fonte: Serviço de Email
+ID do Evento: 4042
+Descrição: Usuário USER-8539 logou com sucesso
+
+Data: 2025-04-20 06:20:45
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5023
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 06:25:12
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1018
+Descrição: Usuário USER-4185 logou com sucesso
+
+Data: 2025-04-20 06:27:56
+Fonte: Interface de Rede
+ID do Evento: 9457
+Descrição: Corrupção de dados no arquivo: arquivo_10.db
+
+Data: 2025-04-20 06:32:29
+Fonte: Serviço de Autenticação
+ID do Evento: 2291
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 06:36:36
+Fonte: Aplicativo Financeiro
+ID do Evento: 9515
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 06:40:05
+Fonte: Antivirus
+ID do Evento: 9907
+Descrição: Mudança de permissões em arquivo sensível: arquivo_77.db
+
+Data: 2025-04-20 06:44:42
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2761
+Descrição: Falha na autenticação do usuário: USER-9856
+
+Data: 2025-04-20 06:48:49
+Fonte: Segurança do Sistema
+ID do Evento: 7500
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-20 06:49:20
+Fonte: Player de Mídia
+ID do Evento: 5651
+Descrição: Atualização 4.1.0 instalada
+
+Data: 2025-04-20 06:50:28
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1061
+Descrição: Atualização 4.8.2 instalada
+
+Data: 2025-04-20 06:54:52
+Fonte: Serviço de Backup
+ID do Evento: 5222
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 06:59:00
+Fonte: Serviço de Autenticação
+ID do Evento: 4072
+Descrição: Usuário USER-9362 logou com sucesso
+
+Data: 2025-04-20 07:02:42
+Fonte: Serviço de Email
+ID do Evento: 9512
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 07:06:43
+Fonte: Serviço de Backup
+ID do Evento: 5455
+Descrição: Mudança de permissões em arquivo sensível: arquivo_47.db
+
+Data: 2025-04-20 07:09:42
+Fonte: Servidor de Banco de Dados
+ID do Evento: 1759
+Descrição: Corrupção de dados no arquivo: arquivo_34.db
+
+Data: 2025-04-20 07:12:23
+Fonte: Aplicativo Financeiro
+ID do Evento: 4092
+Descrição: Atualização 1.7.1 instalada
+
+Data: 2025-04-20 07:13:00
+Fonte: Servidor de Banco de Dados
+ID do Evento: 8598
+Descrição: Comportamento anômalo detectado na porta 47782
+
+Data: 2025-04-20 07:14:16
+Fonte: Aplicativo Financeiro
+ID do Evento: 7367
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 07:16:08
+Fonte: Serviço de Email
+ID do Evento: 1923
+Descrição: Tentativa de login suspeita de 192.168.183.176
+
+Data: 2025-04-20 07:17:53
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5024
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 07:22:08
+Fonte: Gerenciador de Atualizações
+ID do Evento: 8189
+Descrição: Comportamento anômalo detectado na porta 30845
+
+Data: 2025-04-20 07:25:33
+Fonte: Interface de Rede
+ID do Evento: 4090
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 07:27:35
+Fonte: Interface de Rede
+ID do Evento: 2989
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 07:28:45
+Fonte: Antivirus
+ID do Evento: 5991
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 07:29:23
+Fonte: Player de Mídia
+ID do Evento: 9653
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 07:34:10
+Fonte: Navegador Web
+ID do Evento: 4049
+Descrição: Usuário USER-1690 logou com sucesso
+
+Data: 2025-04-20 07:38:49
+Fonte: Segurança do Sistema
+ID do Evento: 9347
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 07:42:00
+Fonte: Navegador Web
+ID do Evento: 4243
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-20 07:45:15
+Fonte: Antivirus
+ID do Evento: 6809
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 07:48:05
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2264
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 07:48:56
+Fonte: Aplicativo Financeiro
+ID do Evento: 2367
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 07:49:43
+Fonte: Segurança do Sistema
+ID do Evento: 5218
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 07:53:20
+Fonte: Serviço de Backup
+ID do Evento: 9186
+Descrição: Corrupção de dados no arquivo: arquivo_50.db
+
+Data: 2025-04-20 07:55:49
+Fonte: Player de Mídia
+ID do Evento: 4541
+Descrição: Corrupção de dados no arquivo: arquivo_21.db
+
+Data: 2025-04-20 07:58:25
+Fonte: Segurança do Sistema
+ID do Evento: 5036
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 08:01:26
+Fonte: Aplicativo Financeiro
+ID do Evento: 6738
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 08:05:43
+Fonte: Monitor de Desempenho
+ID do Evento: 7244
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-20 08:06:24
+Fonte: Player de Mídia
+ID do Evento: 1037
+Descrição: Operação concluída em 18s
+
+Data: 2025-04-20 08:11:09
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3885
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 08:12:50
+Fonte: Aplicativo Financeiro
+ID do Evento: 7170
+Descrição: Mudança de permissões em arquivo sensível: arquivo_12.db
+
+Data: 2025-04-20 08:15:47
+Fonte: Serviço de Autenticação
+ID do Evento: 2365
+Descrição: Comportamento anômalo detectado na porta 14744
+
+Data: 2025-04-20 08:20:39
+Fonte: Monitor de Desempenho
+ID do Evento: 3118
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 08:21:57
+Fonte: Interface de Rede
+ID do Evento: 3345
+Descrição: Corrupção de dados no arquivo: arquivo_90.db
+
+Data: 2025-04-20 08:24:49
+Fonte: Serviço de Backup
+ID do Evento: 9885
+Descrição: Operação concluída em 2025s
+
+Data: 2025-04-20 08:27:46
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5030
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 08:31:26
+Fonte: Interface de Rede
+ID do Evento: 1003
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 08:35:50
+Fonte: Player de Mídia
+ID do Evento: 7929
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 08:38:37
+Fonte: Serviço de Autenticação
+ID do Evento: 1051
+Descrição: Atualização 2.2.7 instalada
+
+Data: 2025-04-20 08:41:16
+Fonte: Segurança do Sistema
+ID do Evento: 8162
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 08:44:51
+Fonte: Player de Mídia
+ID do Evento: 7234
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 08:47:23
+Fonte: Navegador Web
+ID do Evento: 2284
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 08:51:47
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1070
+Descrição: Usuário USER-9990 logou com sucesso
+
+Data: 2025-04-20 08:55:54
+Fonte: Gerenciador de Atualizações
+ID do Evento: 9791
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 08:57:33
+Fonte: Aplicativo Financeiro
+ID do Evento: 8119
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 09:02:22
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7294
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 09:05:51
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 4426
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 09:10:45
+Fonte: Aplicativo Financeiro
+ID do Evento: 9153
+Descrição: Operação concluída em 2914s
+
+Data: 2025-04-20 09:13:36
+Fonte: Interface de Rede
+ID do Evento: 5022
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 09:17:25
+Fonte: Aplicativo Financeiro
+ID do Evento: 4622
+Descrição: Latência alta na rede: 1217ms
+
+Data: 2025-04-20 09:21:59
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7720
+Descrição: Comportamento anômalo detectado na porta 45953
+
+Data: 2025-04-20 09:24:24
+Fonte: Segurança do Sistema
+ID do Evento: 2991
+Descrição: Tentativa de login suspeita de 192.168.131.98
+
+Data: 2025-04-20 09:26:22
+Fonte: Antivirus
+ID do Evento: 3459
+Descrição: Latência alta na rede: 1236ms
+
+Data: 2025-04-20 09:27:23
+Fonte: Antivirus
+ID do Evento: 1148
+Descrição: Operação concluída em 1449s
+
+Data: 2025-04-20 09:30:11
+Fonte: Serviço de Email
+ID do Evento: 4688
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 09:32:47
+Fonte: Serviço de Backup
+ID do Evento: 8634
+Descrição: Operação concluída em 960s
+
+Data: 2025-04-20 09:34:56
+Fonte: Navegador Web
+ID do Evento: 4378
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 09:35:58
+Fonte: Segurança do Sistema
+ID do Evento: 6095
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 09:40:09
+Fonte: Navegador Web
+ID do Evento: 4085
+Descrição: Atualização 3.4.9 instalada
+
+Data: 2025-04-20 09:42:58
+Fonte: Serviço de Autenticação
+ID do Evento: 2216
+Descrição: Falha na autenticação do usuário: USER-6000
+
+Data: 2025-04-20 09:44:06
+Fonte: Aplicativo Financeiro
+ID do Evento: 1860
+Descrição: Falha na autenticação do usuário: USER-3941
+
+Data: 2025-04-20 09:48:46
+Fonte: Navegador Web
+ID do Evento: 3776
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-20 09:53:23
+Fonte: Aplicativo Financeiro
+ID do Evento: 6256
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 09:57:32
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7221
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-20 10:00:20
+Fonte: Aplicativo Financeiro
+ID do Evento: 2931
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-20 10:02:47
+Fonte: Player de Mídia
+ID do Evento: 2224
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 10:04:24
+Fonte: Serviço de Email
+ID do Evento: 9857
+Descrição: Comportamento anômalo detectado na porta 24124
+
+Data: 2025-04-20 10:07:52
+Fonte: Player de Mídia
+ID do Evento: 7779
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 10:12:19
+Fonte: Gerenciador de Atualizações
+ID do Evento: 6643
+Descrição: Falha na autenticação do usuário: USER-1696
+
+Data: 2025-04-20 10:16:56
+Fonte: Navegador Web
+ID do Evento: 6506
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 10:18:14
+Fonte: Serviço de Autenticação
+ID do Evento: 6552
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 10:20:17
+Fonte: Antivirus
+ID do Evento: 1172
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 10:23:55
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 7637
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 10:28:46
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4098
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 10:29:50
+Fonte: Antivirus
+ID do Evento: 4026
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 10:34:31
+Fonte: Navegador Web
+ID do Evento: 1910
+Descrição: Operação concluída em 2201s
+
+Data: 2025-04-20 10:38:48
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9636
+Descrição: Latência alta na rede: 844ms
+
+Data: 2025-04-20 10:42:49
+Fonte: Segurança do Sistema
+ID do Evento: 3487
+Descrição: Usuário USER-5373 logou com sucesso
+
+Data: 2025-04-20 10:45:55
+Fonte: Serviço de Autenticação
+ID do Evento: 2138
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 10:47:58
+Fonte: Interface de Rede
+ID do Evento: 2940
+Descrição: Falha na autenticação do usuário: USER-6837
+
+Data: 2025-04-20 10:51:44
+Fonte: Segurança do Sistema
+ID do Evento: 7801
+Descrição: Tentativa de login suspeita de 192.168.183.30
+
+Data: 2025-04-20 10:55:19
+Fonte: Aplicativo Financeiro
+ID do Evento: 9278
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 10:58:53
+Fonte: Player de Mídia
+ID do Evento: 2463
+Descrição: Usuário USER-8484 logou com sucesso
+
+Data: 2025-04-20 10:59:46
+Fonte: Segurança do Sistema
+ID do Evento: 5667
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 11:03:49
+Fonte: Player de Mídia
+ID do Evento: 6907
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 11:06:35
+Fonte: Segurança do Sistema
+ID do Evento: 9584
+Descrição: Latência alta na rede: 1366ms
+
+Data: 2025-04-20 11:10:14
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9483
+Descrição: Mudança de permissões em arquivo sensível: arquivo_90.db
+
+Data: 2025-04-20 11:15:00
+Fonte: Serviço de Backup
+ID do Evento: 2951
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 11:19:03
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9106
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 11:21:56
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7051
+Descrição: Mudança de permissões em arquivo sensível: arquivo_95.db
+
+Data: 2025-04-20 11:25:59
+Fonte: Player de Mídia
+ID do Evento: 1796
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 11:29:12
+Fonte: Antivirus
+ID do Evento: 5027
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 11:33:10
+Fonte: Navegador Web
+ID do Evento: 4012
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 11:37:42
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3080
+Descrição: Tentativa de login suspeita de 192.168.233.204
+
+Data: 2025-04-20 11:39:43
+Fonte: Segurança do Sistema
+ID do Evento: 6950
+Descrição: Corrupção de dados no arquivo: arquivo_77.db
+
+Data: 2025-04-20 11:40:14
+Fonte: Servidor de Banco de Dados
+ID do Evento: 1067
+Descrição: Atualização 5.3.3 instalada
+
+Data: 2025-04-20 11:41:13
+Fonte: Monitor de Desempenho
+ID do Evento: 1684
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 11:43:32
+Fonte: Serviço de Email
+ID do Evento: 6488
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-20 11:46:45
+Fonte: Aplicativo Financeiro
+ID do Evento: 8803
+Descrição: Usuário USER-6095 logou com sucesso
+
+Data: 2025-04-20 11:50:29
+Fonte: Servidor de Banco de Dados
+ID do Evento: 3648
+Descrição: Operação concluída em 290s
+
+Data: 2025-04-20 11:53:23
+Fonte: Monitor de Desempenho
+ID do Evento: 2427
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 11:55:40
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3035
+Descrição: Comportamento anômalo detectado na porta 58687
+
+Data: 2025-04-20 12:00:35
+Fonte: Antivirus
+ID do Evento: 6356
+Descrição: Latência alta na rede: 1588ms
+
+Data: 2025-04-20 12:04:34
+Fonte: Navegador Web
+ID do Evento: 9421
+Descrição: Latência alta na rede: 939ms
+
+Data: 2025-04-20 12:06:41
+Fonte: Serviço de Autenticação
+ID do Evento: 7060
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-20 12:09:12
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 6505
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-20 12:11:56
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9607
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 12:14:21
+Fonte: Monitor de Desempenho
+ID do Evento: 5010
+Descrição: Corrupção de dados no arquivo: arquivo_91.db
+
+Data: 2025-04-20 12:16:43
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7976
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 12:21:10
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2271
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 12:22:23
+Fonte: Serviço de Email
+ID do Evento: 5301
+Descrição: Operação concluída em 2424s
+
+Data: 2025-04-20 12:24:35
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3413
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 12:28:00
+Fonte: Antivirus
+ID do Evento: 3012
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 12:30:36
+Fonte: Segurança do Sistema
+ID do Evento: 3975
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 12:34:19
+Fonte: Player de Mídia
+ID do Evento: 7987
+Descrição: Tentativa de login suspeita de 192.168.101.59
+
+Data: 2025-04-20 12:37:08
+Fonte: Segurança do Sistema
+ID do Evento: 4658
+Descrição: Tentativa de login suspeita de 192.168.75.28
+
+Data: 2025-04-20 12:38:31
+Fonte: Aplicativo Financeiro
+ID do Evento: 5050
+Descrição: Falha na autenticação do usuário: USER-4904
+
+Data: 2025-04-20 12:39:14
+Fonte: Antivirus
+ID do Evento: 4695
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 12:42:50
+Fonte: Serviço de Backup
+ID do Evento: 7546
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 12:45:36
+Fonte: Serviço de Backup
+ID do Evento: 1098
+Descrição: Usuário USER-7282 logou com sucesso
+
+Data: 2025-04-20 12:47:05
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3116
+Descrição: Operação concluída em 1353s
+
+Data: 2025-04-20 12:48:44
+Fonte: Navegador Web
+ID do Evento: 5088
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 12:49:24
+Fonte: Serviço de Email
+ID do Evento: 7067
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 12:52:21
+Fonte: Serviço de Backup
+ID do Evento: 4585
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 12:54:00
+Fonte: Interface de Rede
+ID do Evento: 1080
+Descrição: Atualização 4.1.1 instalada
+
+Data: 2025-04-20 12:57:32
+Fonte: Serviço de Email
+ID do Evento: 1879
+Descrição: Comportamento anômalo detectado na porta 22177
+
+Data: 2025-04-20 12:59:52
+Fonte: Servidor de Banco de Dados
+ID do Evento: 3441
+Descrição: Mudança de permissões em arquivo sensível: arquivo_47.db
+
+Data: 2025-04-20 13:01:35
+Fonte: Segurança do Sistema
+ID do Evento: 6426
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 13:04:30
+Fonte: Antivirus
+ID do Evento: 1283
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 13:06:26
+Fonte: Serviço de Email
+ID do Evento: 1140
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-20 13:09:40
+Fonte: Serviço de Backup
+ID do Evento: 7280
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 13:14:10
+Fonte: Navegador Web
+ID do Evento: 2173
+Descrição: Operação concluída em 2717s
+
+Data: 2025-04-20 13:18:21
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 8266
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 13:21:55
+Fonte: Player de Mídia
+ID do Evento: 5972
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 13:26:43
+Fonte: Navegador Web
+ID do Evento: 7640
+Descrição: Corrupção de dados no arquivo: arquivo_64.db
+
+Data: 2025-04-20 13:28:16
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5238
+Descrição: Mudança de permissões em arquivo sensível: arquivo_68.db
+
+Data: 2025-04-20 13:31:28
+Fonte: Aplicativo Financeiro
+ID do Evento: 9972
+Descrição: Falha na autenticação do usuário: USER-6306
+
+Data: 2025-04-20 13:36:17
+Fonte: Segurança do Sistema
+ID do Evento: 8687
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 13:38:35
+Fonte: Interface de Rede
+ID do Evento: 1688
+Descrição: Mudança de permissões em arquivo sensível: arquivo_48.db
+
+Data: 2025-04-20 13:40:58
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1093
+Descrição: Atualização 5.4.5 instalada
+
+Data: 2025-04-20 13:42:25
+Fonte: Serviço de Email
+ID do Evento: 5611
+Descrição: Latência alta na rede: 1266ms
+
+Data: 2025-04-20 13:46:13
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5321
+Descrição: Atualização 5.5.9 instalada
+
+Data: 2025-04-20 13:49:39
+Fonte: Navegador Web
+ID do Evento: 1986
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 13:52:36
+Fonte: Serviço de Autenticação
+ID do Evento: 7837
+Descrição: Mudança de permissões em arquivo sensível: arquivo_93.db
+
+Data: 2025-04-20 13:53:10
+Fonte: Serviço de Email
+ID do Evento: 2241
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 13:54:52
+Fonte: Interface de Rede
+ID do Evento: 7646
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 13:58:11
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2252
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 14:02:06
+Fonte: Monitor de Desempenho
+ID do Evento: 2210
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 14:04:23
+Fonte: Segurança do Sistema
+ID do Evento: 8225
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 14:06:03
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3801
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 14:10:36
+Fonte: Aplicativo Financeiro
+ID do Evento: 7048
+Descrição: Tentativa de login suspeita de 192.168.144.160
+
+Data: 2025-04-20 14:11:14
+Fonte: Interface de Rede
+ID do Evento: 9663
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 14:14:03
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2210
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 14:18:40
+Fonte: Interface de Rede
+ID do Evento: 1535
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 14:21:28
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 8605
+Descrição: Comportamento anômalo detectado na porta 1937
+
+Data: 2025-04-20 14:25:44
+Fonte: Serviço de Email
+ID do Evento: 1157
+Descrição: Latência alta na rede: 1302ms
+
+Data: 2025-04-20 14:29:27
+Fonte: Segurança do Sistema
+ID do Evento: 3563
+Descrição: Latência alta na rede: 995ms
+
+Data: 2025-04-20 14:33:14
+Fonte: Serviço de Email
+ID do Evento: 3393
+Descrição: Corrupção de dados no arquivo: arquivo_79.db
+
+Data: 2025-04-20 14:38:01
+Fonte: Segurança do Sistema
+ID do Evento: 3552
+Descrição: Operação concluída em 480s
+
+Data: 2025-04-20 14:42:36
+Fonte: Antivirus
+ID do Evento: 4861
+Descrição: Usuário USER-3221 logou com sucesso
+
+Data: 2025-04-20 14:43:36
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5657
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 14:44:16
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2609
+Descrição: Comportamento anômalo detectado na porta 47674
+
+Data: 2025-04-20 14:46:06
+Fonte: Antivirus
+ID do Evento: 6552
+Descrição: Mudança de permissões em arquivo sensível: arquivo_61.db
+
+Data: 2025-04-20 14:48:32
+Fonte: Navegador Web
+ID do Evento: 3051
+Descrição: Latência alta na rede: 1679ms
+
+Data: 2025-04-20 14:53:29
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2289
+Descrição: Corrupção de dados no arquivo: arquivo_59.db
+
+Data: 2025-04-20 14:56:35
+Fonte: Interface de Rede
+ID do Evento: 4016
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 14:58:42
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1086
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 15:02:11
+Fonte: Aplicativo Financeiro
+ID do Evento: 7116
+Descrição: Corrupção de dados no arquivo: arquivo_51.db
+
+Data: 2025-04-20 15:04:26
+Fonte: Navegador Web
+ID do Evento: 5032
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 15:08:34
+Fonte: Serviço de Autenticação
+ID do Evento: 1087
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 15:09:27
+Fonte: Serviço de Autenticação
+ID do Evento: 7048
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 15:10:22
+Fonte: Serviço de Backup
+ID do Evento: 1004
+Descrição: Operação concluída em 2712s
+
+Data: 2025-04-20 15:14:11
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2264
+Descrição: Corrupção de dados no arquivo: arquivo_71.db
+
+Data: 2025-04-20 15:18:08
+Fonte: Segurança do Sistema
+ID do Evento: 1537
+Descrição: Corrupção de dados no arquivo: arquivo_14.db
+
+Data: 2025-04-20 15:19:23
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4098
+Descrição: Usuário USER-1199 logou com sucesso
+
+Data: 2025-04-20 15:20:07
+Fonte: Serviço de Autenticação
+ID do Evento: 8611
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 15:24:49
+Fonte: Antivirus
+ID do Evento: 1094
+Descrição: Atualização 2.7.2 instalada
+
+Data: 2025-04-20 15:29:35
+Fonte: Serviço de Email
+ID do Evento: 1061
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 15:32:29
+Fonte: Serviço de Email
+ID do Evento: 3044
+Descrição: Comportamento anômalo detectado na porta 41690
+
+Data: 2025-04-20 15:34:42
+Fonte: Navegador Web
+ID do Evento: 1033
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-20 15:36:50
+Fonte: Serviço de Backup
+ID do Evento: 5360
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 15:41:22
+Fonte: Serviço de Autenticação
+ID do Evento: 4091
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 15:43:37
+Fonte: Aplicativo Financeiro
+ID do Evento: 8536
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 15:44:32
+Fonte: Antivirus
+ID do Evento: 1820
+Descrição: Falha na autenticação do usuário: USER-4842
+
+Data: 2025-04-20 15:46:50
+Fonte: Antivirus
+ID do Evento: 4430
+Descrição: Corrupção de dados no arquivo: arquivo_90.db
+
+Data: 2025-04-20 15:49:57
+Fonte: Monitor de Desempenho
+ID do Evento: 9475
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 15:51:47
+Fonte: Monitor de Desempenho
+ID do Evento: 8283
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 15:53:49
+Fonte: Player de Mídia
+ID do Evento: 5373
+Descrição: Corrupção de dados no arquivo: arquivo_33.db
+
+Data: 2025-04-20 15:55:52
+Fonte: Serviço de Email
+ID do Evento: 7051
+Descrição: Mudança de permissões em arquivo sensível: arquivo_23.db
+
+Data: 2025-04-20 15:59:28
+Fonte: Serviço de Autenticação
+ID do Evento: 5097
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 16:02:59
+Fonte: Serviço de Email
+ID do Evento: 2219
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 16:03:33
+Fonte: Antivirus
+ID do Evento: 4427
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 16:06:36
+Fonte: Player de Mídia
+ID do Evento: 2738
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 16:10:59
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1008
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 16:12:32
+Fonte: Serviço de Email
+ID do Evento: 1421
+Descrição: Usuário USER-5754 logou com sucesso
+
+Data: 2025-04-20 16:16:37
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4044
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 16:18:24
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1014
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 16:23:01
+Fonte: Serviço de Email
+ID do Evento: 9550
+Descrição: Comportamento anômalo detectado na porta 33056
+
+Data: 2025-04-20 16:25:19
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1070
+Descrição: Operação concluída em 1092s
+
+Data: 2025-04-20 16:27:06
+Fonte: Serviço de Backup
+ID do Evento: 7964
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 16:31:30
+Fonte: Navegador Web
+ID do Evento: 4084
+Descrição: Atualização 1.3.6 instalada
+
+Data: 2025-04-20 16:32:02
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 2921
+Descrição: Atualização 4.5.4 instalada
+
+Data: 2025-04-20 16:34:39
+Fonte: Player de Mídia
+ID do Evento: 5066
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 16:38:47
+Fonte: Aplicativo Financeiro
+ID do Evento: 1065
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-20 16:40:04
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1009
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 16:41:07
+Fonte: Serviço de Backup
+ID do Evento: 8752
+Descrição: Falha na autenticação do usuário: USER-8359
+
+Data: 2025-04-20 16:42:44
+Fonte: Segurança do Sistema
+ID do Evento: 6419
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 16:44:58
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7076
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-20 16:47:38
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 6868
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 16:51:53
+Fonte: Navegador Web
+ID do Evento: 9820
+Descrição: Usuário USER-9521 logou com sucesso
+
+Data: 2025-04-20 16:53:06
+Fonte: Navegador Web
+ID do Evento: 6174
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 16:55:10
+Fonte: Navegador Web
+ID do Evento: 4099
+Descrição: Atualização 5.5.6 instalada
+
+Data: 2025-04-20 17:00:02
+Fonte: Servidor de Banco de Dados
+ID do Evento: 1649
+Descrição: Latência alta na rede: 1207ms
+
+Data: 2025-04-20 17:01:41
+Fonte: Interface de Rede
+ID do Evento: 8397
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 17:05:51
+Fonte: Serviço de Backup
+ID do Evento: 7525
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 17:10:21
+Fonte: Serviço de Email
+ID do Evento: 4359
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-20 17:13:25
+Fonte: Segurança do Sistema
+ID do Evento: 1827
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 17:17:34
+Fonte: Serviço de Autenticação
+ID do Evento: 7312
+Descrição: Corrupção de dados no arquivo: arquivo_48.db
+
+Data: 2025-04-20 17:19:32
+Fonte: Serviço de Email
+ID do Evento: 1881
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 17:20:05
+Fonte: Navegador Web
+ID do Evento: 4424
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 17:23:08
+Fonte: Player de Mídia
+ID do Evento: 3976
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 17:26:48
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 6698
+Descrição: Falha na autenticação do usuário: USER-6925
+
+Data: 2025-04-20 17:31:11
+Fonte: Interface de Rede
+ID do Evento: 3956
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 17:34:51
+Fonte: Navegador Web
+ID do Evento: 8908
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 17:38:09
+Fonte: Player de Mídia
+ID do Evento: 4457
+Descrição: Atualização 3.8.9 instalada
+
+Data: 2025-04-20 17:40:21
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1085
+Descrição: Usuário USER-7688 logou com sucesso
+
+Data: 2025-04-20 17:43:57
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4022
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 17:46:55
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4453
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 17:49:09
+Fonte: Navegador Web
+ID do Evento: 7821
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 17:50:02
+Fonte: Serviço de Backup
+ID do Evento: 4003
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 17:53:42
+Fonte: Player de Mídia
+ID do Evento: 7258
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 17:55:40
+Fonte: Antivirus
+ID do Evento: 6303
+Descrição: Comportamento anômalo detectado na porta 18041
+
+Data: 2025-04-20 17:56:24
+Fonte: Aplicativo Financeiro
+ID do Evento: 4462
+Descrição: Falha na autenticação do usuário: USER-6808
+
+Data: 2025-04-20 18:00:02
+Fonte: Aplicativo Financeiro
+ID do Evento: 9633
+Descrição: Atualização 2.0.8 instalada
+
+Data: 2025-04-20 18:03:40
+Fonte: Serviço de Backup
+ID do Evento: 9390
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 18:05:12
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3005
+Descrição: Comportamento anômalo detectado na porta 25617
+
+Data: 2025-04-20 18:06:00
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1535
+Descrição: Mudança de permissões em arquivo sensível: arquivo_85.db
+
+Data: 2025-04-20 18:08:40
+Fonte: Interface de Rede
+ID do Evento: 1106
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 18:10:27
+Fonte: Serviço de Autenticação
+ID do Evento: 4398
+Descrição: Mudança de permissões em arquivo sensível: arquivo_84.db
+
+Data: 2025-04-20 18:12:17
+Fonte: Antivirus
+ID do Evento: 2616
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 18:13:01
+Fonte: Monitor de Desempenho
+ID do Evento: 8391
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 18:17:58
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2247
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 18:19:30
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7499
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 18:22:39
+Fonte: Monitor de Desempenho
+ID do Evento: 8143
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 18:24:46
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5766
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 18:28:32
+Fonte: Monitor de Desempenho
+ID do Evento: 8967
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 18:30:59
+Fonte: Aplicativo Financeiro
+ID do Evento: 5218
+Descrição: Atualização 5.1.6 instalada
+
+Data: 2025-04-20 18:34:35
+Fonte: Antivirus
+ID do Evento: 1093
+Descrição: Atualização 2.8.9 instalada
+
+Data: 2025-04-20 18:39:29
+Fonte: Antivirus
+ID do Evento: 8839
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 18:40:35
+Fonte: Segurança do Sistema
+ID do Evento: 7014
+Descrição: Comportamento anômalo detectado na porta 57424
+
+Data: 2025-04-20 18:44:37
+Fonte: Serviço de Email
+ID do Evento: 8584
+Descrição: Corrupção de dados no arquivo: arquivo_40.db
+
+Data: 2025-04-20 18:46:17
+Fonte: Segurança do Sistema
+ID do Evento: 3059
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-20 18:47:27
+Fonte: Monitor de Desempenho
+ID do Evento: 5456
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 18:50:58
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3559
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 18:54:13
+Fonte: Serviço de Backup
+ID do Evento: 4038
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 18:58:52
+Fonte: Antivirus
+ID do Evento: 2114
+Descrição: Usuário USER-4376 logou com sucesso
+
+Data: 2025-04-20 19:01:05
+Fonte: Antivirus
+ID do Evento: 1834
+Descrição: Latência alta na rede: 430ms
+
+Data: 2025-04-20 19:03:06
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5552
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 19:06:08
+Fonte: Gerenciador de Atualizações
+ID do Evento: 8796
+Descrição: Comportamento anômalo detectado na porta 57750
+
+Data: 2025-04-20 19:07:56
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7462
+Descrição: Mudança de permissões em arquivo sensível: arquivo_23.db
+
+Data: 2025-04-20 19:08:55
+Fonte: Serviço de Email
+ID do Evento: 9816
+Descrição: Falha na autenticação do usuário: USER-9148
+
+Data: 2025-04-20 19:11:47
+Fonte: Player de Mídia
+ID do Evento: 9846
+Descrição: Operação concluída em 279s
+
+Data: 2025-04-20 19:16:06
+Fonte: Player de Mídia
+ID do Evento: 8768
+Descrição: Usuário USER-5424 logou com sucesso
+
+Data: 2025-04-20 19:17:53
+Fonte: Serviço de Autenticação
+ID do Evento: 4896
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 19:22:16
+Fonte: Monitor de Desempenho
+ID do Evento: 3036
+Descrição: Comportamento anômalo detectado na porta 20466
+
+Data: 2025-04-20 19:25:13
+Fonte: Aplicativo Financeiro
+ID do Evento: 3525
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 19:28:33
+Fonte: Aplicativo Financeiro
+ID do Evento: 3972
+Descrição: Corrupção de dados no arquivo: arquivo_3.db
+
+Data: 2025-04-20 19:30:53
+Fonte: Serviço de Email
+ID do Evento: 1019
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 19:34:59
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5243
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-20 19:36:55
+Fonte: Navegador Web
+ID do Evento: 8411
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-20 19:37:52
+Fonte: Monitor de Desempenho
+ID do Evento: 2882
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 19:39:56
+Fonte: Segurança do Sistema
+ID do Evento: 3356
+Descrição: Comportamento anômalo detectado na porta 63609
+
+Data: 2025-04-20 19:41:53
+Fonte: Navegador Web
+ID do Evento: 9196
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 19:46:27
+Fonte: Gerenciador de Atualizações
+ID do Evento: 6402
+Descrição: Atualização 1.9.9 instalada
+
+Data: 2025-04-20 19:51:16
+Fonte: Aplicativo Financeiro
+ID do Evento: 8893
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 19:54:30
+Fonte: Player de Mídia
+ID do Evento: 6187
+Descrição: Latência alta na rede: 1883ms
+
+Data: 2025-04-20 19:57:23
+Fonte: Segurança do Sistema
+ID do Evento: 3924
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 19:58:25
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1622
+Descrição: Falha na autenticação do usuário: USER-2419
+
+Data: 2025-04-20 20:02:55
+Fonte: Interface de Rede
+ID do Evento: 9772
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 20:05:34
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1787
+Descrição: Mudança de permissões em arquivo sensível: arquivo_62.db
+
+Data: 2025-04-20 20:08:56
+Fonte: Aplicativo Financeiro
+ID do Evento: 5014
+Descrição: Corrupção de dados no arquivo: arquivo_64.db
+
+Data: 2025-04-20 20:11:05
+Fonte: Monitor de Desempenho
+ID do Evento: 2863
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-20 20:14:43
+Fonte: Serviço de Autenticação
+ID do Evento: 5049
+Descrição: Corrupção de dados no arquivo: arquivo_88.db
+
+Data: 2025-04-20 20:15:56
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2289
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 20:19:13
+Fonte: Serviço de Autenticação
+ID do Evento: 4112
+Descrição: Falha na autenticação do usuário: USER-7322
+
+Data: 2025-04-20 20:19:54
+Fonte: Gerenciador de Atualizações
+ID do Evento: 6867
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-20 20:24:36
+Fonte: Servidor de Banco de Dados
+ID do Evento: 8346
+Descrição: Latência alta na rede: 863ms
+
+Data: 2025-04-20 20:27:20
+Fonte: Serviço de Backup
+ID do Evento: 2287
+Descrição: Falha na autenticação do usuário: USER-5196
+
+Data: 2025-04-20 20:31:57
+Fonte: Segurança do Sistema
+ID do Evento: 9554
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 20:36:38
+Fonte: Segurança do Sistema
+ID do Evento: 5127
+Descrição: Latência alta na rede: 176ms
+
+Data: 2025-04-20 20:37:26
+Fonte: Segurança do Sistema
+ID do Evento: 6698
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-20 20:38:26
+Fonte: Aplicativo Financeiro
+ID do Evento: 8241
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 20:43:00
+Fonte: Serviço de Autenticação
+ID do Evento: 1033
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-20 20:43:51
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1000
+Descrição: Operação concluída em 2224s
+
+Data: 2025-04-20 20:47:40
+Fonte: Serviço de Backup
+ID do Evento: 3528
+Descrição: Usuário USER-2297 logou com sucesso
+
+Data: 2025-04-20 20:50:47
+Fonte: Monitor de Desempenho
+ID do Evento: 5388
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 20:52:16
+Fonte: Interface de Rede
+ID do Evento: 4085
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 20:56:28
+Fonte: Serviço de Autenticação
+ID do Evento: 2019
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 21:00:21
+Fonte: Monitor de Desempenho
+ID do Evento: 7067
+Descrição: Tentativa de login suspeita de 192.168.162.133
+
+Data: 2025-04-20 21:02:32
+Fonte: Segurança do Sistema
+ID do Evento: 1677
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 21:04:35
+Fonte: Monitor de Desempenho
+ID do Evento: 1694
+Descrição: Latência alta na rede: 812ms
+
+Data: 2025-04-20 21:05:25
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 7801
+Descrição: Comportamento anômalo detectado na porta 15477
+
+Data: 2025-04-20 21:06:29
+Fonte: Interface de Rede
+ID do Evento: 9221
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 21:11:12
+Fonte: Antivirus
+ID do Evento: 4028
+Descrição: Atualização 1.0.8 instalada
+
+Data: 2025-04-20 21:15:32
+Fonte: Serviço de Email
+ID do Evento: 7453
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 21:19:50
+Fonte: Segurança do Sistema
+ID do Evento: 4007
+Descrição: Atualização 5.8.1 instalada
+
+Data: 2025-04-20 21:20:39
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2189
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 21:21:31
+Fonte: Monitor de Desempenho
+ID do Evento: 4069
+Descrição: Atualização 2.4.4 instalada
+
+Data: 2025-04-20 21:25:09
+Fonte: Navegador Web
+ID do Evento: 7890
+Descrição: Mudança de permissões em arquivo sensível: arquivo_30.db
+
+Data: 2025-04-20 21:29:00
+Fonte: Gerenciador de Atualizações
+ID do Evento: 5041
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 21:29:47
+Fonte: Antivirus
+ID do Evento: 9921
+Descrição: Mudança de permissões em arquivo sensível: arquivo_10.db
+
+Data: 2025-04-20 21:30:51
+Fonte: Aplicativo Financeiro
+ID do Evento: 5986
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-20 21:31:48
+Fonte: Antivirus
+ID do Evento: 4129
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 21:34:19
+Fonte: Monitor de Desempenho
+ID do Evento: 2757
+Descrição: Falha na autenticação do usuário: USER-9219
+
+Data: 2025-04-20 21:38:03
+Fonte: Navegador Web
+ID do Evento: 9714
+Descrição: Corrupção de dados no arquivo: arquivo_76.db
+
+Data: 2025-04-20 21:43:00
+Fonte: Serviço de Backup
+ID do Evento: 5211
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-20 21:43:34
+Fonte: Antivirus
+ID do Evento: 5023
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 21:46:29
+Fonte: Serviço de Backup
+ID do Evento: 8885
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 21:49:44
+Fonte: Serviço de Email
+ID do Evento: 9118
+Descrição: Corrupção de dados no arquivo: arquivo_33.db
+
+Data: 2025-04-20 21:50:45
+Fonte: Serviço de Backup
+ID do Evento: 2324
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 21:54:52
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1587
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 21:59:14
+Fonte: Antivirus
+ID do Evento: 5165
+Descrição: Usuário USER-9219 logou com sucesso
+
+Data: 2025-04-20 22:03:12
+Fonte: Gerenciador de Atualizações
+ID do Evento: 8269
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 22:06:19
+Fonte: Aplicativo Financeiro
+ID do Evento: 5886
+Descrição: Operação concluída em 2908s
+
+Data: 2025-04-20 22:08:08
+Fonte: Serviço de Autenticação
+ID do Evento: 9160
+Descrição: Usuário USER-3290 logou com sucesso
+
+Data: 2025-04-20 22:10:39
+Fonte: Interface de Rede
+ID do Evento: 4303
+Descrição: Corrupção de dados no arquivo: arquivo_99.db
+
+Data: 2025-04-20 22:12:05
+Fonte: Aplicativo Financeiro
+ID do Evento: 8238
+Descrição: Tentativa de login suspeita de 192.168.216.245
+
+Data: 2025-04-20 22:16:28
+Fonte: Interface de Rede
+ID do Evento: 4508
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 22:17:59
+Fonte: Interface de Rede
+ID do Evento: 2281
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 22:22:27
+Fonte: Player de Mídia
+ID do Evento: 9043
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 22:23:27
+Fonte: Serviço de Autenticação
+ID do Evento: 4087
+Descrição: Usuário USER-2041 logou com sucesso
+
+Data: 2025-04-20 22:24:16
+Fonte: Antivirus
+ID do Evento: 3955
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 22:28:32
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5723
+Descrição: Corrupção de dados no arquivo: arquivo_69.db
+
+Data: 2025-04-20 22:29:56
+Fonte: Serviço de Autenticação
+ID do Evento: 1012
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 22:30:28
+Fonte: Player de Mídia
+ID do Evento: 7587
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 22:33:46
+Fonte: Navegador Web
+ID do Evento: 3083
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 22:35:57
+Fonte: Navegador Web
+ID do Evento: 7088
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 22:38:08
+Fonte: Aplicativo Financeiro
+ID do Evento: 6867
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 22:38:42
+Fonte: Interface de Rede
+ID do Evento: 2609
+Descrição: Comportamento anômalo detectado na porta 63965
+
+Data: 2025-04-20 22:39:52
+Fonte: Serviço de Backup
+ID do Evento: 2845
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 22:40:28
+Fonte: Monitor de Desempenho
+ID do Evento: 6191
+Descrição: Mudança de permissões em arquivo sensível: arquivo_85.db
+
+Data: 2025-04-20 22:42:12
+Fonte: Interface de Rede
+ID do Evento: 2179
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 22:47:09
+Fonte: Interface de Rede
+ID do Evento: 4557
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 22:48:20
+Fonte: Segurança do Sistema
+ID do Evento: 9968
+Descrição: Tentativa de login suspeita de 192.168.169.51
+
+Data: 2025-04-20 22:50:45
+Fonte: Serviço de Backup
+ID do Evento: 6657
+Descrição: Mudança de permissões em arquivo sensível: arquivo_60.db
+
+Data: 2025-04-20 22:53:51
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2329
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 22:56:10
+Fonte: Servidor de Banco de Dados
+ID do Evento: 6763
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 22:57:03
+Fonte: Serviço de Backup
+ID do Evento: 1040
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 22:57:39
+Fonte: Serviço de Backup
+ID do Evento: 8545
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 22:58:09
+Fonte: Antivirus
+ID do Evento: 2097
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-20 23:02:32
+Fonte: Serviço de Backup
+ID do Evento: 5203
+Descrição: Mudança de permissões em arquivo sensível: arquivo_72.db
+
+Data: 2025-04-20 23:06:32
+Fonte: Serviço de Backup
+ID do Evento: 9955
+Descrição: Atualização 3.3.2 instalada
+
+Data: 2025-04-20 23:08:05
+Fonte: Player de Mídia
+ID do Evento: 3007
+Descrição: Latência alta na rede: 776ms
+
+Data: 2025-04-20 23:12:42
+Fonte: Player de Mídia
+ID do Evento: 4443
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 23:15:30
+Fonte: Serviço de Autenticação
+ID do Evento: 6347
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 23:16:56
+Fonte: Aplicativo Financeiro
+ID do Evento: 7074
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-20 23:20:52
+Fonte: Serviço de Email
+ID do Evento: 8864
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-20 23:23:19
+Fonte: Serviço de Autenticação
+ID do Evento: 2959
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-20 23:25:10
+Fonte: Servidor de Banco de Dados
+ID do Evento: 1758
+Descrição: Mudança de permissões em arquivo sensível: arquivo_13.db
+
+Data: 2025-04-20 23:29:27
+Fonte: Segurança do Sistema
+ID do Evento: 2216
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-20 23:32:12
+Fonte: Serviço de Backup
+ID do Evento: 6316
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 23:35:51
+Fonte: Interface de Rede
+ID do Evento: 1928
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-20 23:37:05
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 2264
+Descrição: Falha na autenticação do usuário: USER-1665
+
+Data: 2025-04-20 23:37:42
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5459
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-20 23:39:55
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 4046
+Descrição: Atualização 3.6.8 instalada
+
+Data: 2025-04-20 23:43:04
+Fonte: Navegador Web
+ID do Evento: 7013
+Descrição: Comportamento anômalo detectado na porta 44751
+
+Data: 2025-04-20 23:44:13
+Fonte: Antivirus
+ID do Evento: 7638
+Descrição: Atualização 2.0.1 instalada
+
+Data: 2025-04-20 23:47:21
+Fonte: Segurança do Sistema
+ID do Evento: 9761
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-20 23:48:15
+Fonte: Aplicativo Financeiro
+ID do Evento: 8657
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-20 23:50:04
+Fonte: Navegador Web
+ID do Evento: 7550
+Descrição: Tentativa de login suspeita de 192.168.147.216
+
+Data: 2025-04-20 23:51:11
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4571
+Descrição: Falha na autenticação do usuário: USER-4085
+
+Data: 2025-04-20 23:53:15
+Fonte: Serviço de Autenticação
+ID do Evento: 4030
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 23:53:53
+Fonte: Aplicativo Financeiro
+ID do Evento: 5035
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-20 23:57:24
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9386
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-20 23:59:23
+Fonte: Serviço de Backup
+ID do Evento: 3016
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 00:03:40
+Fonte: Segurança do Sistema
+ID do Evento: 4033
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 00:05:02
+Fonte: Aplicativo Financeiro
+ID do Evento: 2777
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 00:05:51
+Fonte: Antivirus
+ID do Evento: 4626
+Descrição: Mudança de permissões em arquivo sensível: arquivo_36.db
+
+Data: 2025-04-21 00:07:50
+Fonte: Player de Mídia
+ID do Evento: 5394
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 00:10:41
+Fonte: Antivirus
+ID do Evento: 5384
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 00:15:16
+Fonte: Player de Mídia
+ID do Evento: 6883
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 00:16:07
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2221
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 00:19:56
+Fonte: Segurança do Sistema
+ID do Evento: 3339
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 00:22:52
+Fonte: Navegador Web
+ID do Evento: 2562
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 00:23:29
+Fonte: Serviço de Email
+ID do Evento: 8270
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 00:24:55
+Fonte: Player de Mídia
+ID do Evento: 9732
+Descrição: Corrupção de dados no arquivo: arquivo_20.db
+
+Data: 2025-04-21 00:28:05
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5033
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 00:29:19
+Fonte: Antivirus
+ID do Evento: 7034
+Descrição: Tentativa de login suspeita de 192.168.231.244
+
+Data: 2025-04-21 00:33:59
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 4284
+Descrição: Corrupção de dados no arquivo: arquivo_49.db
+
+Data: 2025-04-21 00:37:46
+Fonte: Interface de Rede
+ID do Evento: 7089
+Descrição: Tentativa de login suspeita de 192.168.255.32
+
+Data: 2025-04-21 00:41:00
+Fonte: Serviço de Email
+ID do Evento: 1281
+Descrição: Atualização 2.0.9 instalada
+
+Data: 2025-04-21 00:45:01
+Fonte: Segurança do Sistema
+ID do Evento: 4087
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 00:46:57
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7781
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 00:50:11
+Fonte: Interface de Rede
+ID do Evento: 4006
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 00:53:41
+Fonte: Interface de Rede
+ID do Evento: 9800
+Descrição: Tentativa de login suspeita de 192.168.26.189
+
+Data: 2025-04-21 00:58:11
+Fonte: Antivirus
+ID do Evento: 3271
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-21 01:02:34
+Fonte: Player de Mídia
+ID do Evento: 9423
+Descrição: Usuário USER-8748 logou com sucesso
+
+Data: 2025-04-21 01:07:32
+Fonte: Antivirus
+ID do Evento: 3324
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-21 01:12:11
+Fonte: Serviço de Email
+ID do Evento: 7144
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 01:17:11
+Fonte: Player de Mídia
+ID do Evento: 7056
+Descrição: Comportamento anômalo detectado na porta 26561
+
+Data: 2025-04-21 01:22:02
+Fonte: Serviço de Email
+ID do Evento: 3020
+Descrição: Tentativa de login suspeita de 192.168.143.37
+
+Data: 2025-04-21 01:24:45
+Fonte: Antivirus
+ID do Evento: 9152
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 01:29:24
+Fonte: Monitor de Desempenho
+ID do Evento: 4488
+Descrição: Comportamento anômalo detectado na porta 58649
+
+Data: 2025-04-21 01:30:52
+Fonte: Serviço de Autenticação
+ID do Evento: 5288
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-21 01:32:09
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2058
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-21 01:36:18
+Fonte: Serviço de Autenticação
+ID do Evento: 7891
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 01:41:12
+Fonte: Segurança do Sistema
+ID do Evento: 2248
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 01:45:48
+Fonte: Monitor de Desempenho
+ID do Evento: 9459
+Descrição: Mudança de permissões em arquivo sensível: arquivo_86.db
+
+Data: 2025-04-21 01:49:11
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9649
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 01:52:59
+Fonte: Serviço de Backup
+ID do Evento: 7238
+Descrição: Comportamento anômalo detectado na porta 23955
+
+Data: 2025-04-21 01:56:50
+Fonte: Serviço de Autenticação
+ID do Evento: 7952
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 02:00:28
+Fonte: Aplicativo Financeiro
+ID do Evento: 4713
+Descrição: Usuário USER-2989 logou com sucesso
+
+Data: 2025-04-21 02:03:52
+Fonte: Serviço de Email
+ID do Evento: 2767
+Descrição: Atualização 1.0.6 instalada
+
+Data: 2025-04-21 02:07:53
+Fonte: Antivirus
+ID do Evento: 4013
+Descrição: Usuário USER-3106 logou com sucesso
+
+Data: 2025-04-21 02:11:11
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3655
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 02:15:55
+Fonte: Segurança do Sistema
+ID do Evento: 3602
+Descrição: Mudança de permissões em arquivo sensível: arquivo_25.db
+
+Data: 2025-04-21 02:18:05
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2454
+Descrição: Corrupção de dados no arquivo: arquivo_64.db
+
+Data: 2025-04-21 02:21:03
+Fonte: Serviço de Backup
+ID do Evento: 3124
+Descrição: Usuário USER-1449 logou com sucesso
+
+Data: 2025-04-21 02:23:02
+Fonte: Segurança do Sistema
+ID do Evento: 9691
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 02:23:46
+Fonte: Monitor de Desempenho
+ID do Evento: 1342
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 02:25:09
+Fonte: Servidor de Banco de Dados
+ID do Evento: 8733
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 02:27:17
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5735
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 02:31:33
+Fonte: Player de Mídia
+ID do Evento: 7096
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 02:34:20
+Fonte: Interface de Rede
+ID do Evento: 8947
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 02:37:29
+Fonte: Segurança do Sistema
+ID do Evento: 7014
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 02:38:34
+Fonte: Antivirus
+ID do Evento: 4067
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 02:39:12
+Fonte: Serviço de Autenticação
+ID do Evento: 2738
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 02:43:32
+Fonte: Aplicativo Financeiro
+ID do Evento: 8709
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 02:47:22
+Fonte: Monitor de Desempenho
+ID do Evento: 4013
+Descrição: Operação concluída em 1329s
+
+Data: 2025-04-21 02:49:59
+Fonte: Monitor de Desempenho
+ID do Evento: 2941
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 02:51:54
+Fonte: Navegador Web
+ID do Evento: 5953
+Descrição: Mudança de permissões em arquivo sensível: arquivo_73.db
+
+Data: 2025-04-21 02:54:35
+Fonte: Serviço de Autenticação
+ID do Evento: 1873
+Descrição: Usuário USER-5716 logou com sucesso
+
+Data: 2025-04-21 02:58:40
+Fonte: Serviço de Email
+ID do Evento: 7086
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 03:01:14
+Fonte: Aplicativo Financeiro
+ID do Evento: 2203
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 03:02:40
+Fonte: Antivirus
+ID do Evento: 5061
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 03:03:45
+Fonte: Interface de Rede
+ID do Evento: 9201
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 03:06:10
+Fonte: Segurança do Sistema
+ID do Evento: 1356
+Descrição: Falha na autenticação do usuário: USER-5896
+
+Data: 2025-04-21 03:10:51
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5833
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 03:11:39
+Fonte: Antivirus
+ID do Evento: 2102
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 03:13:15
+Fonte: Navegador Web
+ID do Evento: 1161
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 03:18:07
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7925
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 03:20:40
+Fonte: Serviço de Backup
+ID do Evento: 6983
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 03:23:38
+Fonte: Antivirus
+ID do Evento: 2640
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 03:27:19
+Fonte: Monitor de Desempenho
+ID do Evento: 7399
+Descrição: Latência alta na rede: 574ms
+
+Data: 2025-04-21 03:30:38
+Fonte: Navegador Web
+ID do Evento: 5090
+Descrição: Falha na autenticação do usuário: USER-3083
+
+Data: 2025-04-21 03:34:25
+Fonte: Segurança do Sistema
+ID do Evento: 2203
+Descrição: Falha na autenticação do usuário: USER-6441
+
+Data: 2025-04-21 03:38:22
+Fonte: Antivirus
+ID do Evento: 1646
+Descrição: Tentativa de login suspeita de 192.168.24.96
+
+Data: 2025-04-21 03:41:59
+Fonte: Segurança do Sistema
+ID do Evento: 6658
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 03:43:34
+Fonte: Navegador Web
+ID do Evento: 8246
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 03:44:42
+Fonte: Antivirus
+ID do Evento: 4601
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 03:45:39
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 7886
+Descrição: Latência alta na rede: 1319ms
+
+Data: 2025-04-21 03:49:52
+Fonte: Interface de Rede
+ID do Evento: 3826
+Descrição: Corrupção de dados no arquivo: arquivo_84.db
+
+Data: 2025-04-21 03:52:04
+Fonte: Interface de Rede
+ID do Evento: 8521
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 03:55:58
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4369
+Descrição: Mudança de permissões em arquivo sensível: arquivo_7.db
+
+Data: 2025-04-21 03:59:17
+Fonte: Segurança do Sistema
+ID do Evento: 5875
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 04:03:31
+Fonte: Serviço de Backup
+ID do Evento: 2925
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 04:05:44
+Fonte: Interface de Rede
+ID do Evento: 5598
+Descrição: Mudança de permissões em arquivo sensível: arquivo_100.db
+
+Data: 2025-04-21 04:07:57
+Fonte: Serviço de Autenticação
+ID do Evento: 8799
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 04:11:23
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4764
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 04:12:00
+Fonte: Navegador Web
+ID do Evento: 8593
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 04:16:47
+Fonte: Player de Mídia
+ID do Evento: 2393
+Descrição: Mudança de permissões em arquivo sensível: arquivo_36.db
+
+Data: 2025-04-21 04:20:38
+Fonte: Player de Mídia
+ID do Evento: 4813
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 04:24:31
+Fonte: Servidor de Banco de Dados
+ID do Evento: 6642
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-21 04:29:10
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7001
+Descrição: Comportamento anômalo detectado na porta 42705
+
+Data: 2025-04-21 04:34:03
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1002
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 04:36:11
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 7070
+Descrição: Latência alta na rede: 323ms
+
+Data: 2025-04-21 04:37:00
+Fonte: Serviço de Email
+ID do Evento: 7354
+Descrição: Tentativa de login suspeita de 192.168.102.241
+
+Data: 2025-04-21 04:41:06
+Fonte: Player de Mídia
+ID do Evento: 5603
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 04:43:13
+Fonte: Monitor de Desempenho
+ID do Evento: 9485
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 04:45:46
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9395
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 04:49:30
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4677
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 04:53:10
+Fonte: Navegador Web
+ID do Evento: 2395
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 04:55:29
+Fonte: Serviço de Email
+ID do Evento: 6256
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 04:57:20
+Fonte: Antivirus
+ID do Evento: 5037
+Descrição: Corrupção de dados no arquivo: arquivo_19.db
+
+Data: 2025-04-21 05:01:52
+Fonte: Aplicativo Financeiro
+ID do Evento: 1846
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 05:03:31
+Fonte: Navegador Web
+ID do Evento: 6596
+Descrição: Atualização 1.7.4 instalada
+
+Data: 2025-04-21 05:05:34
+Fonte: Player de Mídia
+ID do Evento: 2593
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 05:09:54
+Fonte: Antivirus
+ID do Evento: 3009
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 05:11:02
+Fonte: Aplicativo Financeiro
+ID do Evento: 7067
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 05:11:35
+Fonte: Player de Mídia
+ID do Evento: 5257
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 05:15:42
+Fonte: Serviço de Backup
+ID do Evento: 2749
+Descrição: Usuário USER-6160 logou com sucesso
+
+Data: 2025-04-21 05:19:38
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1071
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 05:20:13
+Fonte: Segurança do Sistema
+ID do Evento: 5757
+Descrição: Tentativa de login suspeita de 192.168.61.253
+
+Data: 2025-04-21 05:21:35
+Fonte: Segurança do Sistema
+ID do Evento: 6991
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 05:23:01
+Fonte: Antivirus
+ID do Evento: 2578
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 05:24:00
+Fonte: Player de Mídia
+ID do Evento: 3085
+Descrição: Tentativa de login suspeita de 192.168.58.192
+
+Data: 2025-04-21 05:24:55
+Fonte: Monitor de Desempenho
+ID do Evento: 1077
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 05:28:22
+Fonte: Serviço de Backup
+ID do Evento: 7090
+Descrição: Mudança de permissões em arquivo sensível: arquivo_33.db
+
+Data: 2025-04-21 05:31:21
+Fonte: Aplicativo Financeiro
+ID do Evento: 1655
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 05:32:31
+Fonte: Antivirus
+ID do Evento: 4306
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 05:35:37
+Fonte: Antivirus
+ID do Evento: 3033
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-21 05:38:44
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5870
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 05:42:41
+Fonte: Segurança do Sistema
+ID do Evento: 3170
+Descrição: Latência alta na rede: 864ms
+
+Data: 2025-04-21 05:47:32
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7505
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 05:52:16
+Fonte: Aplicativo Financeiro
+ID do Evento: 2726
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 05:53:59
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3030
+Descrição: Latência alta na rede: 318ms
+
+Data: 2025-04-21 05:58:22
+Fonte: Navegador Web
+ID do Evento: 5636
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 05:59:11
+Fonte: Monitor de Desempenho
+ID do Evento: 7597
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 06:03:25
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9543
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 06:07:18
+Fonte: Antivirus
+ID do Evento: 1351
+Descrição: Comportamento anômalo detectado na porta 3099
+
+Data: 2025-04-21 06:09:47
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3092
+Descrição: Latência alta na rede: 771ms
+
+Data: 2025-04-21 06:12:18
+Fonte: Serviço de Autenticação
+ID do Evento: 5009
+Descrição: Corrupção de dados no arquivo: arquivo_58.db
+
+Data: 2025-04-21 06:14:32
+Fonte: Player de Mídia
+ID do Evento: 4501
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 06:19:26
+Fonte: Interface de Rede
+ID do Evento: 8902
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 06:23:00
+Fonte: Monitor de Desempenho
+ID do Evento: 7566
+Descrição: Latência alta na rede: 1438ms
+
+Data: 2025-04-21 06:23:51
+Fonte: Servidor de Banco de Dados
+ID do Evento: 6816
+Descrição: Atualização 3.0.2 instalada
+
+Data: 2025-04-21 06:25:31
+Fonte: Serviço de Autenticação
+ID do Evento: 3820
+Descrição: Corrupção de dados no arquivo: arquivo_31.db
+
+Data: 2025-04-21 06:26:59
+Fonte: Player de Mídia
+ID do Evento: 4174
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 06:28:47
+Fonte: Interface de Rede
+ID do Evento: 1889
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 06:32:55
+Fonte: Interface de Rede
+ID do Evento: 1604
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 06:33:52
+Fonte: Player de Mídia
+ID do Evento: 1806
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 06:38:37
+Fonte: Player de Mídia
+ID do Evento: 4685
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 06:40:57
+Fonte: Servidor de Banco de Dados
+ID do Evento: 1031
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 06:44:06
+Fonte: Aplicativo Financeiro
+ID do Evento: 7089
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 06:44:56
+Fonte: Segurança do Sistema
+ID do Evento: 3052
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 06:49:21
+Fonte: Monitor de Desempenho
+ID do Evento: 2656
+Descrição: Falha na autenticação do usuário: USER-6203
+
+Data: 2025-04-21 06:53:14
+Fonte: Interface de Rede
+ID do Evento: 8316
+Descrição: Operação concluída em 650s
+
+Data: 2025-04-21 06:57:59
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3813
+Descrição: Operação concluída em 3154s
+
+Data: 2025-04-21 07:02:16
+Fonte: Interface de Rede
+ID do Evento: 2344
+Descrição: Usuário USER-6928 logou com sucesso
+
+Data: 2025-04-21 07:05:34
+Fonte: Segurança do Sistema
+ID do Evento: 8133
+Descrição: Usuário USER-2780 logou com sucesso
+
+Data: 2025-04-21 07:09:51
+Fonte: Navegador Web
+ID do Evento: 4062
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 07:11:20
+Fonte: Serviço de Autenticação
+ID do Evento: 6957
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 07:14:38
+Fonte: Serviço de Backup
+ID do Evento: 3408
+Descrição: Latência alta na rede: 768ms
+
+Data: 2025-04-21 07:18:03
+Fonte: Segurança do Sistema
+ID do Evento: 4288
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 07:21:20
+Fonte: Serviço de Backup
+ID do Evento: 2855
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 07:24:02
+Fonte: Serviço de Backup
+ID do Evento: 5355
+Descrição: Comportamento anômalo detectado na porta 50066
+
+Data: 2025-04-21 07:25:21
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 8124
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 07:29:00
+Fonte: Segurança do Sistema
+ID do Evento: 4271
+Descrição: Latência alta na rede: 1924ms
+
+Data: 2025-04-21 07:31:17
+Fonte: Navegador Web
+ID do Evento: 7060
+Descrição: Dispositivo não reconhecido conectado: HD_Externo
+
+Data: 2025-04-21 07:35:33
+Fonte: Serviço de Autenticação
+ID do Evento: 2348
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 07:39:41
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3081
+Descrição: Comportamento anômalo detectado na porta 51084
+
+Data: 2025-04-21 07:42:14
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4074
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 07:46:27
+Fonte: Serviço de Backup
+ID do Evento: 3000
+Descrição: Latência alta na rede: 1946ms
+
+Data: 2025-04-21 07:50:44
+Fonte: Segurança do Sistema
+ID do Evento: 4035
+Descrição: Usuário USER-6242 logou com sucesso
+
+Data: 2025-04-21 07:55:37
+Fonte: Aplicativo Financeiro
+ID do Evento: 6986
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 07:58:36
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3219
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 08:01:46
+Fonte: Aplicativo Financeiro
+ID do Evento: 7017
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 08:02:44
+Fonte: Servidor de Banco de Dados
+ID do Evento: 7583
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 08:04:43
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4769
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 08:07:49
+Fonte: Segurança do Sistema
+ID do Evento: 8639
+Descrição: Tentativa de login suspeita de 192.168.24.54
+
+Data: 2025-04-21 08:12:11
+Fonte: Segurança do Sistema
+ID do Evento: 7989
+Descrição: Comportamento anômalo detectado na porta 46082
+
+Data: 2025-04-21 08:16:07
+Fonte: Serviço de Backup
+ID do Evento: 4313
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 08:20:51
+Fonte: Serviço de Backup
+ID do Evento: 7678
+Descrição: Latência alta na rede: 878ms
+
+Data: 2025-04-21 08:25:33
+Fonte: Serviço de Backup
+ID do Evento: 5174
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 08:29:59
+Fonte: Serviço de Autenticação
+ID do Evento: 7305
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-21 08:34:05
+Fonte: Serviço de Email
+ID do Evento: 4167
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 08:35:24
+Fonte: Segurança do Sistema
+ID do Evento: 1606
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-21 08:38:57
+Fonte: Serviço de Backup
+ID do Evento: 5087
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 08:42:15
+Fonte: Gerenciador de Atualizações
+ID do Evento: 6059
+Descrição: Atualização 2.0.3 instalada
+
+Data: 2025-04-21 08:46:32
+Fonte: Antivirus
+ID do Evento: 7791
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 08:49:54
+Fonte: Player de Mídia
+ID do Evento: 7002
+Descrição: Comportamento anômalo detectado na porta 63708
+
+Data: 2025-04-21 08:54:16
+Fonte: Segurança do Sistema
+ID do Evento: 2573
+Descrição: Falha na autenticação do usuário: USER-7629
+
+Data: 2025-04-21 08:59:02
+Fonte: Monitor de Desempenho
+ID do Evento: 2027
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 09:01:21
+Fonte: Player de Mídia
+ID do Evento: 3900
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 09:04:18
+Fonte: Serviço de Email
+ID do Evento: 7097
+Descrição: Comportamento anômalo detectado na porta 63342
+
+Data: 2025-04-21 09:05:03
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 7786
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-21 09:06:40
+Fonte: Player de Mídia
+ID do Evento: 2768
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 09:07:45
+Fonte: Player de Mídia
+ID do Evento: 2260
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 09:10:27
+Fonte: Segurança do Sistema
+ID do Evento: 5112
+Descrição: Operação concluída em 2294s
+
+Data: 2025-04-21 09:15:23
+Fonte: Serviço de Backup
+ID do Evento: 5003
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 09:17:33
+Fonte: Interface de Rede
+ID do Evento: 4512
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 09:22:05
+Fonte: Monitor de Desempenho
+ID do Evento: 9960
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 09:24:21
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3072
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 09:25:46
+Fonte: Serviço de Email
+ID do Evento: 9319
+Descrição: Usuário USER-7730 logou com sucesso
+
+Data: 2025-04-21 09:29:19
+Fonte: Monitor de Desempenho
+ID do Evento: 2241
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 09:33:16
+Fonte: Serviço de Autenticação
+ID do Evento: 6864
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 09:37:33
+Fonte: Segurança do Sistema
+ID do Evento: 4386
+Descrição: Usuário USER-9591 logou com sucesso
+
+Data: 2025-04-21 09:41:02
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3531
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 09:45:54
+Fonte: Serviço de Backup
+ID do Evento: 8059
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 09:48:40
+Fonte: Serviço de Backup
+ID do Evento: 5853
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 09:50:42
+Fonte: Segurança do Sistema
+ID do Evento: 2571
+Descrição: Mudança de permissões em arquivo sensível: arquivo_42.db
+
+Data: 2025-04-21 09:54:53
+Fonte: Interface de Rede
+ID do Evento: 7091
+Descrição: Latência alta na rede: 465ms
+
+Data: 2025-04-21 09:56:53
+Fonte: Serviço de Backup
+ID do Evento: 7261
+Descrição: Atualização 4.0.7 instalada
+
+Data: 2025-04-21 10:00:44
+Fonte: Segurança do Sistema
+ID do Evento: 7101
+Descrição: Atualização 3.2.8 instalada
+
+Data: 2025-04-21 10:05:39
+Fonte: Antivirus
+ID do Evento: 2214
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 10:10:29
+Fonte: Serviço de Autenticação
+ID do Evento: 8355
+Descrição: Tentativa de login suspeita de 192.168.191.78
+
+Data: 2025-04-21 10:13:08
+Fonte: Player de Mídia
+ID do Evento: 8407
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 10:15:32
+Fonte: Serviço de Autenticação
+ID do Evento: 3334
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 10:18:51
+Fonte: Navegador Web
+ID do Evento: 7315
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-21 10:21:38
+Fonte: Interface de Rede
+ID do Evento: 3072
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-21 10:25:04
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2341
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 10:25:41
+Fonte: Serviço de Backup
+ID do Evento: 2825
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 10:26:43
+Fonte: Interface de Rede
+ID do Evento: 2252
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 10:31:03
+Fonte: Interface de Rede
+ID do Evento: 7050
+Descrição: Latência alta na rede: 1308ms
+
+Data: 2025-04-21 10:35:26
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2663
+Descrição: Atualização 1.8.3 instalada
+
+Data: 2025-04-21 10:35:58
+Fonte: Navegador Web
+ID do Evento: 2866
+Descrição: Mudança de permissões em arquivo sensível: arquivo_61.db
+
+Data: 2025-04-21 10:38:31
+Fonte: Antivirus
+ID do Evento: 1065
+Descrição: Usuário USER-9655 logou com sucesso
+
+Data: 2025-04-21 10:39:10
+Fonte: Serviço de Email
+ID do Evento: 6830
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 10:39:57
+Fonte: Serviço de Email
+ID do Evento: 7019
+Descrição: Comportamento anômalo detectado na porta 10987
+
+Data: 2025-04-21 10:42:11
+Fonte: Segurança do Sistema
+ID do Evento: 4387
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 10:44:03
+Fonte: Serviço de Backup
+ID do Evento: 8897
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 10:44:45
+Fonte: Aplicativo Financeiro
+ID do Evento: 1558
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 10:46:55
+Fonte: Serviço de Autenticação
+ID do Evento: 3588
+Descrição: Mudança de permissões em arquivo sensível: arquivo_56.db
+
+Data: 2025-04-21 10:50:19
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3687
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 10:54:37
+Fonte: Navegador Web
+ID do Evento: 7199
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 10:55:34
+Fonte: Monitor de Desempenho
+ID do Evento: 1097
+Descrição: Atualização 5.6.9 instalada
+
+Data: 2025-04-21 10:59:05
+Fonte: Interface de Rede
+ID do Evento: 5035
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 11:01:41
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1467
+Descrição: Operação concluída em 934s
+
+Data: 2025-04-21 11:06:02
+Fonte: Navegador Web
+ID do Evento: 3009
+Descrição: Latência alta na rede: 1710ms
+
+Data: 2025-04-21 11:08:48
+Fonte: Navegador Web
+ID do Evento: 7077
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 11:11:29
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4195
+Descrição: Usuário USER-3567 logou com sucesso
+
+Data: 2025-04-21 11:15:35
+Fonte: Antivirus
+ID do Evento: 7225
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 11:17:51
+Fonte: Servidor de Banco de Dados
+ID do Evento: 3095
+Descrição: Tentativa de login suspeita de 192.168.48.166
+
+Data: 2025-04-21 11:22:15
+Fonte: Interface de Rede
+ID do Evento: 6054
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 11:26:03
+Fonte: Aplicativo Financeiro
+ID do Evento: 5443
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 11:30:02
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9670
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 11:34:55
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 6539
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 11:35:29
+Fonte: Interface de Rede
+ID do Evento: 7741
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 11:37:14
+Fonte: Servidor de Banco de Dados
+ID do Evento: 8473
+Descrição: Operação concluída em 309s
+
+Data: 2025-04-21 11:39:31
+Fonte: Serviço de Autenticação
+ID do Evento: 2224
+Descrição: Corrupção de dados no arquivo: arquivo_87.db
+
+Data: 2025-04-21 11:40:27
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2129
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 11:45:17
+Fonte: Aplicativo Financeiro
+ID do Evento: 6989
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 11:49:49
+Fonte: Antivirus
+ID do Evento: 9768
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 11:51:11
+Fonte: Player de Mídia
+ID do Evento: 4214
+Descrição: Comportamento anômalo detectado na porta 59697
+
+Data: 2025-04-21 11:55:56
+Fonte: Gerenciador de Atualizações
+ID do Evento: 9103
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 12:00:31
+Fonte: Player de Mídia
+ID do Evento: 4019
+Descrição: Usuário USER-2608 logou com sucesso
+
+Data: 2025-04-21 12:03:46
+Fonte: Player de Mídia
+ID do Evento: 4033
+Descrição: Operação concluída em 912s
+
+Data: 2025-04-21 12:04:56
+Fonte: Aplicativo Financeiro
+ID do Evento: 2239
+Descrição: Falha na autenticação do usuário: USER-7694
+
+Data: 2025-04-21 12:06:31
+Fonte: Aplicativo Financeiro
+ID do Evento: 9803
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 12:09:44
+Fonte: Interface de Rede
+ID do Evento: 3011
+Descrição: Latência alta na rede: 1066ms
+
+Data: 2025-04-21 12:11:09
+Fonte: Antivirus
+ID do Evento: 4767
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 12:16:09
+Fonte: Player de Mídia
+ID do Evento: 8718
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 12:20:35
+Fonte: Segurança do Sistema
+ID do Evento: 3030
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-21 12:24:52
+Fonte: Interface de Rede
+ID do Evento: 6740
+Descrição: Mudança de permissões em arquivo sensível: arquivo_61.db
+
+Data: 2025-04-21 12:27:14
+Fonte: Segurança do Sistema
+ID do Evento: 3804
+Descrição: Falha na autenticação do usuário: USER-3955
+
+Data: 2025-04-21 12:29:49
+Fonte: Serviço de Backup
+ID do Evento: 5843
+Descrição: Atualização 2.3.4 instalada
+
+Data: 2025-04-21 12:31:12
+Fonte: Navegador Web
+ID do Evento: 8329
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 12:31:42
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 4538
+Descrição: Atualização 2.0.1 instalada
+
+Data: 2025-04-21 12:36:13
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 8864
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 12:37:28
+Fonte: Antivirus
+ID do Evento: 5547
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 12:41:56
+Fonte: Serviço de Backup
+ID do Evento: 2234
+Descrição: Corrupção de dados no arquivo: arquivo_10.db
+
+Data: 2025-04-21 12:46:21
+Fonte: Aplicativo Financeiro
+ID do Evento: 9920
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 12:46:53
+Fonte: Interface de Rede
+ID do Evento: 6952
+Descrição: Usuário USER-7296 logou com sucesso
+
+Data: 2025-04-21 12:51:31
+Fonte: Serviço de Email
+ID do Evento: 3079
+Descrição: Mudança de permissões em arquivo sensível: arquivo_9.db
+
+Data: 2025-04-21 12:52:34
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3549
+Descrição: Atualização 5.5.1 instalada
+
+Data: 2025-04-21 12:54:59
+Fonte: Antivirus
+ID do Evento: 4066
+Descrição: Operação concluída em 1299s
+
+Data: 2025-04-21 12:58:52
+Fonte: Serviço de Autenticação
+ID do Evento: 4001
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 13:01:03
+Fonte: Serviço de Email
+ID do Evento: 7114
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 13:02:26
+Fonte: Serviço de Backup
+ID do Evento: 6764
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 13:05:03
+Fonte: Serviço de Autenticação
+ID do Evento: 5653
+Descrição: Mudança de permissões em arquivo sensível: arquivo_65.db
+
+Data: 2025-04-21 13:08:12
+Fonte: Segurança do Sistema
+ID do Evento: 1178
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 13:11:32
+Fonte: Navegador Web
+ID do Evento: 3009
+Descrição: Mudança de permissões em arquivo sensível: arquivo_38.db
+
+Data: 2025-04-21 13:12:58
+Fonte: Interface de Rede
+ID do Evento: 3816
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 13:14:20
+Fonte: Player de Mídia
+ID do Evento: 3082
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 13:15:21
+Fonte: Serviço de Autenticação
+ID do Evento: 9060
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 13:19:44
+Fonte: Servidor de Banco de Dados
+ID do Evento: 3252
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 13:22:10
+Fonte: Antivirus
+ID do Evento: 4435
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 13:23:21
+Fonte: Antivirus
+ID do Evento: 4523
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 13:28:09
+Fonte: Serviço de Email
+ID do Evento: 7398
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 13:29:24
+Fonte: Interface de Rede
+ID do Evento: 5768
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-21 13:30:47
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5333
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 13:34:58
+Fonte: Serviço de Email
+ID do Evento: 7083
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 13:38:18
+Fonte: Segurança do Sistema
+ID do Evento: 3458
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 13:41:13
+Fonte: Serviço de Email
+ID do Evento: 7644
+Descrição: Comportamento anômalo detectado na porta 19047
+
+Data: 2025-04-21 13:44:16
+Fonte: Interface de Rede
+ID do Evento: 2718
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-21 13:47:31
+Fonte: Player de Mídia
+ID do Evento: 1518
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 13:51:03
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 8689
+Descrição: Latência alta na rede: 307ms
+
+Data: 2025-04-21 13:52:35
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4533
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 13:56:51
+Fonte: Serviço de Email
+ID do Evento: 8649
+Descrição: Comportamento anômalo detectado na porta 2938
+
+Data: 2025-04-21 13:57:37
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9582
+Descrição: Corrupção de dados no arquivo: arquivo_28.db
+
+Data: 2025-04-21 14:01:56
+Fonte: Segurança do Sistema
+ID do Evento: 8209
+Descrição: Operação concluída em 3032s
+
+Data: 2025-04-21 14:06:36
+Fonte: Interface de Rede
+ID do Evento: 5258
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 14:10:30
+Fonte: Monitor de Desempenho
+ID do Evento: 8740
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 14:12:22
+Fonte: Serviço de Email
+ID do Evento: 4018
+Descrição: Operação concluída em 2522s
+
+Data: 2025-04-21 14:16:31
+Fonte: Serviço de Email
+ID do Evento: 7212
+Descrição: Operação concluída em 2947s
+
+Data: 2025-04-21 14:17:14
+Fonte: Serviço de Email
+ID do Evento: 3022
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 14:21:38
+Fonte: Interface de Rede
+ID do Evento: 3938
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 14:26:27
+Fonte: Navegador Web
+ID do Evento: 6400
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 14:27:32
+Fonte: Monitor de Desempenho
+ID do Evento: 9429
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 14:32:32
+Fonte: Navegador Web
+ID do Evento: 1363
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 14:33:27
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1265
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 14:36:59
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4603
+Descrição: Operação concluída em 2827s
+
+Data: 2025-04-21 14:38:38
+Fonte: Serviço de Backup
+ID do Evento: 6594
+Descrição: Corrupção de dados no arquivo: arquivo_13.db
+
+Data: 2025-04-21 14:39:28
+Fonte: Serviço de Autenticação
+ID do Evento: 1028
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 14:40:09
+Fonte: Serviço de Email
+ID do Evento: 2845
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 14:43:41
+Fonte: Serviço de Backup
+ID do Evento: 7030
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 14:47:10
+Fonte: Serviço de Autenticação
+ID do Evento: 5264
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 14:49:53
+Fonte: Navegador Web
+ID do Evento: 1057
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 14:53:48
+Fonte: Serviço de Email
+ID do Evento: 6896
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 14:56:02
+Fonte: Serviço de Autenticação
+ID do Evento: 4466
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 14:58:10
+Fonte: Serviço de Email
+ID do Evento: 4051
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 15:00:31
+Fonte: Navegador Web
+ID do Evento: 5506
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 15:03:08
+Fonte: Monitor de Desempenho
+ID do Evento: 5201
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 15:04:10
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3135
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 15:07:46
+Fonte: Monitor de Desempenho
+ID do Evento: 2711
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 15:12:22
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5781
+Descrição: Mudança de permissões em arquivo sensível: arquivo_44.db
+
+Data: 2025-04-21 15:15:47
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4348
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-21 15:19:43
+Fonte: Aplicativo Financeiro
+ID do Evento: 2804
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-21 15:22:33
+Fonte: Gerenciador de Atualizações
+ID do Evento: 9300
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 15:24:39
+Fonte: Monitor de Desempenho
+ID do Evento: 4065
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 15:28:30
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5055
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 15:32:57
+Fonte: Serviço de Backup
+ID do Evento: 2068
+Descrição: Operação concluída em 1782s
+
+Data: 2025-04-21 15:33:27
+Fonte: Interface de Rede
+ID do Evento: 3099
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 15:34:12
+Fonte: Serviço de Email
+ID do Evento: 7798
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 15:37:56
+Fonte: Gerenciador de Atualizações
+ID do Evento: 2105
+Descrição: Atualização 4.5.2 instalada
+
+Data: 2025-04-21 15:40:42
+Fonte: Serviço de Backup
+ID do Evento: 8074
+Descrição: Usuário USER-8448 logou com sucesso
+
+Data: 2025-04-21 15:42:34
+Fonte: Aplicativo Financeiro
+ID do Evento: 8682
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 15:45:37
+Fonte: Aplicativo Financeiro
+ID do Evento: 9993
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 15:49:18
+Fonte: Antivirus
+ID do Evento: 5602
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 15:50:59
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1148
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 15:53:20
+Fonte: Aplicativo Financeiro
+ID do Evento: 9887
+Descrição: Latência alta na rede: 921ms
+
+Data: 2025-04-21 15:55:13
+Fonte: Player de Mídia
+ID do Evento: 7638
+Descrição: Usuário USER-2212 logou com sucesso
+
+Data: 2025-04-21 15:57:57
+Fonte: Interface de Rede
+ID do Evento: 3072
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 16:00:59
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9358
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 16:04:19
+Fonte: Player de Mídia
+ID do Evento: 5658
+Descrição: Usuário USER-2620 logou com sucesso
+
+Data: 2025-04-21 16:09:05
+Fonte: Servidor de Banco de Dados
+ID do Evento: 1024
+Descrição: Operação concluída em 2819s
+
+Data: 2025-04-21 16:13:23
+Fonte: Servidor de Banco de Dados
+ID do Evento: 4215
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 16:15:23
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 3033
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 16:16:58
+Fonte: Aplicativo Financeiro
+ID do Evento: 1260
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 16:20:50
+Fonte: Monitor de Desempenho
+ID do Evento: 1079
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 16:22:54
+Fonte: Player de Mídia
+ID do Evento: 1955
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 16:25:59
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 9655
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 16:27:10
+Fonte: Monitor de Desempenho
+ID do Evento: 6575
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 16:31:14
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 2223
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 16:35:11
+Fonte: Servidor de Banco de Dados
+ID do Evento: 1531
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 16:38:43
+Fonte: Player de Mídia
+ID do Evento: 5951
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 16:42:55
+Fonte: Player de Mídia
+ID do Evento: 3052
+Descrição: Comportamento anômalo detectado na porta 18990
+
+Data: 2025-04-21 16:44:18
+Fonte: Navegador Web
+ID do Evento: 3845
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 16:45:50
+Fonte: Serviço de Email
+ID do Evento: 4012
+Descrição: Novo dispositivo conectado: Impressora
+
+Data: 2025-04-21 16:49:46
+Fonte: Servidor de Banco de Dados
+ID do Evento: 2316
+Descrição: Tentativa de login suspeita de 192.168.231.20
+
+Data: 2025-04-21 16:52:11
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4045
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-21 16:55:15
+Fonte: Monitor de Desempenho
+ID do Evento: 6396
+Descrição: Usuário USER-7318 logou com sucesso
+
+Data: 2025-04-21 16:55:58
+Fonte: Serviço de Email
+ID do Evento: 4333
+Descrição: Latência alta na rede: 1702ms
+
+Data: 2025-04-21 16:58:13
+Fonte: Player de Mídia
+ID do Evento: 7038
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 17:02:38
+Fonte: Aplicativo Financeiro
+ID do Evento: 5699
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 17:06:05
+Fonte: Aplicativo Financeiro
+ID do Evento: 4032
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 17:07:22
+Fonte: Navegador Web
+ID do Evento: 2350
+Descrição: Dispositivo não reconhecido conectado: USB
+
+Data: 2025-04-21 17:11:56
+Fonte: Navegador Web
+ID do Evento: 3416
+Descrição: Latência alta na rede: 997ms
+
+Data: 2025-04-21 17:15:16
+Fonte: Serviço de Email
+ID do Evento: 8080
+Descrição: Latência alta na rede: 1147ms
+
+Data: 2025-04-21 17:20:14
+Fonte: Navegador Web
+ID do Evento: 4273
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 17:22:36
+Fonte: Player de Mídia
+ID do Evento: 3925
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 17:23:11
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 6779
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 17:24:39
+Fonte: Serviço de Autenticação
+ID do Evento: 9522
+Descrição: Comportamento anômalo detectado na porta 64750
+
+Data: 2025-04-21 17:28:52
+Fonte: Antivirus
+ID do Evento: 8505
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 17:29:41
+Fonte: Player de Mídia
+ID do Evento: 5072
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 17:33:43
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1518
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 17:35:44
+Fonte: Monitor de Desempenho
+ID do Evento: 2690
+Descrição: Usuário USER-7770 logou com sucesso
+
+Data: 2025-04-21 17:36:20
+Fonte: Segurança do Sistema
+ID do Evento: 2973
+Descrição: Comportamento anômalo detectado na porta 1422
+
+Data: 2025-04-21 17:38:57
+Fonte: Navegador Web
+ID do Evento: 2609
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 17:43:11
+Fonte: Navegador Web
+ID do Evento: 4035
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-21 17:44:27
+Fonte: Segurança do Sistema
+ID do Evento: 3361
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-21 17:45:09
+Fonte: Interface de Rede
+ID do Evento: 6480
+Descrição: Usuário USER-1493 logou com sucesso
+
+Data: 2025-04-21 17:48:31
+Fonte: Monitor de Desempenho
+ID do Evento: 1099
+Descrição: Novo dispositivo conectado: HD_Externo
+
+Data: 2025-04-21 17:50:23
+Fonte: Serviço de Email
+ID do Evento: 2603
+Descrição: Operação concluída em 661s
+
+Data: 2025-04-21 17:51:16
+Fonte: Player de Mídia
+ID do Evento: 5054
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 17:53:46
+Fonte: Serviço de Backup
+ID do Evento: 4210
+Descrição: Mudança de permissões em arquivo sensível: arquivo_15.db
+
+Data: 2025-04-21 17:57:54
+Fonte: Antivirus
+ID do Evento: 9598
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 18:00:50
+Fonte: Serviço de Autenticação
+ID do Evento: 9620
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 18:02:31
+Fonte: Player de Mídia
+ID do Evento: 3043
+Descrição: Mudança de permissões em arquivo sensível: arquivo_15.db
+
+Data: 2025-04-21 18:07:22
+Fonte: Segurança do Sistema
+ID do Evento: 1027
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 18:07:59
+Fonte: Gerenciador de Atualizações
+ID do Evento: 1072
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 18:11:00
+Fonte: Monitor de Desempenho
+ID do Evento: 3220
+Descrição: Acesso negado ao recurso crítico
+
+Data: 2025-04-21 18:12:17
+Fonte: Navegador Web
+ID do Evento: 9378
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 18:13:00
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 4078
+Descrição: Novo dispositivo conectado: USB
+
+Data: 2025-04-21 18:14:22
+Fonte: Aplicativo Financeiro
+ID do Evento: 2246
+Descrição: Corrupção de dados no arquivo: arquivo_40.db
+
+Data: 2025-04-21 18:16:15
+Fonte: Segurança do Sistema
+ID do Evento: 2014
+Descrição: Corrupção de dados no arquivo: arquivo_24.db
+
+Data: 2025-04-21 18:16:58
+Fonte: Servidor de Banco de Dados
+ID do Evento: 8434
+Descrição: Usuário USER-2760 logou com sucesso
+
+Data: 2025-04-21 18:18:01
+Fonte: Aplicativo Financeiro
+ID do Evento: 8300
+Descrição: Serviço de diagnóstico executado sem erros
+
+Data: 2025-04-21 18:19:48
+Fonte: Serviço de Email
+ID do Evento: 1522
+Descrição: Atualização 4.9.2 instalada
+
+Data: 2025-04-21 18:22:17
+Fonte: Serviço de Autenticação
+ID do Evento: 5969
+Descrição: Operação concluída em 1695s
+
+Data: 2025-04-21 18:22:56
+Fonte: Aplicativo Financeiro
+ID do Evento: 4717
+Descrição: Latência alta na rede: 1941ms
+
+Data: 2025-04-21 18:26:59
+Fonte: Aplicativo Financeiro
+ID do Evento: 1075
+Descrição: Backup concluído com sucesso
+
+Data: 2025-04-21 18:30:24
+Fonte: Servidor de Banco de Dados
+ID do Evento: 9048
+Descrição: Kernel panic detectado no processo
+
+Data: 2025-04-21 18:33:50
+Fonte: Gerenciador de Atualizações
+ID do Evento: 3087
+Descrição: Tentativa de login suspeita de 192.168.158.241
+
+Data: 2025-04-21 18:35:56
+Fonte: Monitor de Desempenho
+ID do Evento: 5379
+Descrição: Atualização 2.1.2 instalada
+
+Data: 2025-04-21 18:40:49
+Fonte: Serviço de Email
+ID do Evento: 9187
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 18:43:09
+Fonte: Navegador Web
+ID do Evento: 2461
+Descrição: Atualização 4.9.4 instalada
+
+Data: 2025-04-21 18:43:59
+Fonte: Gerenciador de Atualizações
+ID do Evento: 6129
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 18:44:56
+Fonte: Serviço de Autenticação
+ID do Evento: 7019
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 18:48:28
+Fonte: Aplicativo Financeiro
+ID do Evento: 7078
+Descrição: Comportamento anômalo detectado na porta 42405
+
+Data: 2025-04-21 18:51:11
+Fonte: Navegador Web
+ID do Evento: 2230
+Descrição: Falha na autenticação do usuário: USER-1646
+
+Data: 2025-04-21 18:55:29
+Fonte: Aplicativo Financeiro
+ID do Evento: 1128
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 19:00:28
+Fonte: Aplicativo Financeiro
+ID do Evento: 2181
+Descrição: Alteração de configuração do sistema detectada
+
+Data: 2025-04-21 19:01:24
+Fonte: Aplicativo Financeiro
+ID do Evento: 1171
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 19:05:18
+Fonte: Servidor de Banco de Dados
+ID do Evento: 5069
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 19:07:15
+Fonte: Interface de Rede
+ID do Evento: 1501
+Descrição: Serviço encerrado inesperadamente
+
+Data: 2025-04-21 19:11:29
+Fonte: Segurança do Sistema
+ID do Evento: 7010
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 19:14:15
+Fonte: Antivirus
+ID do Evento: 4790
+Descrição: Dispositivo não reconhecido conectado: Impressora
+
+Data: 2025-04-21 19:18:36
+Fonte: Serviço de Email
+ID do Evento: 3300
+Descrição: Erro fatal no módulo de kernel
+
+Data: 2025-04-21 19:19:33
+Fonte: Gerenciador de Atualizações
+ID do Evento: 7009
+Descrição: Mudança de permissões em arquivo sensível: arquivo_3.db
+
+Data: 2025-04-21 19:24:16
+Fonte: Player de Mídia
+ID do Evento: 1098
+Descrição: Atualização 4.4.1 instalada
+
+Data: 2025-04-21 19:26:05
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 1694
+Descrição: Tentativa de login suspeita de 192.168.217.96
+
+Data: 2025-04-21 19:29:01
+Fonte: Interface de Rede
+ID do Evento: 5050
+Descrição: Memória insuficiente para concluir operação
+
+Data: 2025-04-21 19:29:55
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 8257
+Descrição: Corrupção de dados no arquivo: arquivo_34.db
+
+Data: 2025-04-21 19:34:21
+Fonte: Aplicativo Financeiro
+ID do Evento: 2384
+Descrição: Atualização 1.4.9 instalada
+
+Data: 2025-04-21 19:36:48
+Fonte: Navegador Web
+ID do Evento: 4218
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 19:39:46
+Fonte: Interface de Rede
+ID do Evento: 7018
+Descrição: Reiniciado após travamento não documentado
+
+Data: 2025-04-21 19:41:38
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 2280
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 19:44:02
+Fonte: Navegador Web
+ID do Evento: 1035
+Descrição: Usuário USER-2208 logou com sucesso
+
+Data: 2025-04-21 19:46:12
+Fonte: Serviço de Backup
+ID do Evento: 1764
+Descrição: Usuário USER-2552 logou com sucesso
+
+Data: 2025-04-21 19:49:53
+Fonte: Player de Mídia
+ID do Evento: 6323
+Descrição: Latência alta na rede: 771ms
+
+Data: 2025-04-21 19:53:19
+Fonte: Interface de Rede
+ID do Evento: 7005
+Descrição: Latência alta na rede: 1165ms
+
+Data: 2025-04-21 19:54:18
+Fonte: Antivirus
+ID do Evento: 4005
+Descrição: Operação concluída em 1085s
+
+Data: 2025-04-21 19:56:11
+Fonte: Serviço de Backup
+ID do Evento: 2893
+Descrição: Latência alta na rede: 1563ms
+
+Data: 2025-04-21 19:57:26
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5397
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 20:00:06
+Fonte: Navegador Web
+ID do Evento: 6057
+Descrição: Corrupção de dados no arquivo: arquivo_60.db
+
+Data: 2025-04-21 20:01:32
+Fonte: Gerenciador de Atualizações
+ID do Evento: 4146
+Descrição: Falha na inicialização do serviço
+
+Data: 2025-04-21 20:05:33
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 5948
+Descrição: Mudança de permissões em arquivo sensível: arquivo_85.db
+
+Data: 2025-04-21 20:09:14
+Fonte: Serviço de Email
+ID do Evento: 5283
+Descrição: Verificação automática finalizada com êxito
+
+Data: 2025-04-21 20:11:47
+Fonte: Interface de Rede
+ID do Evento: 5053
+Descrição: Falha na autenticação do usuário: USER-5155
+
+Data: 2025-04-21 20:12:53
+Fonte: Monitor de Desempenho
+ID do Evento: 5049
+Descrição: BSOD registrado durante execução do sistema
+
+Data: 2025-04-21 20:15:18
+Fonte: Segurança do Sistema
+ID do Evento: 7803
+Descrição: Atualização pendente há mais de 30 dias
+
+Data: 2025-04-21 20:17:17
+Fonte: Ferramenta de Diagnóstico
+ID do Evento: 6051
+Descrição: Mudança de permissões em arquivo sensível: arquivo_14.db
+

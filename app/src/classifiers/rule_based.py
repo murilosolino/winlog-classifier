@@ -1,16 +1,17 @@
-def classify_log(descricao):
+
+def classify_log(id_evento):
     """
-    CLASSIFICAÇÃO INICIAL (BASE PARA TREINO)
-    Regras básicas para criar labels:
-    - Crítico: contém palavras como 'erro', 'falha'
-    - Suspeito: contém 'atualização', 'reinicio'
-    - Normal: outros casos
+    Classifica logs com base em intervalos de ID.
+    Se não reconhecido, retorna 'Desconhecido'
     """
-    criticas = ['erro', 'falhou', 'insuficiente', 'encerrado']
-    suspeitas = ['atualização', 'reiniciado', 'pausado']
-    
-    if any(word in descricao.lower() for word in criticas):
+    id_evento = int(id_evento)  # garantir tipo correto
+
+    # Intervalos fictícios (pode ajustar para mais realismo)
+    if (1000 <= id_evento <= 1199) or (5000 <= id_evento <= 5199):
         return 'Crítico'
-    elif any(word in descricao.lower() for word in suspeitas):
+    elif (2000 <= id_evento <= 2199) or (5200 <= id_evento <= 5399):
         return 'Suspeito'
-    return 'Normal'
+    elif (3000 <= id_evento <= 3999) or (5400 <= id_evento <= 5599):
+        return 'Normal'
+    else:
+        return 'Desconhecido'
