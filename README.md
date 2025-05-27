@@ -93,23 +93,45 @@ winlog-classifier/
 
    * Alertas de criticidade serão exibidos no terminal.
    * Gráficos de status geral dos logs e relatório de performance estarão em `results/`.
+   
 
 7. **(Opcional) Ajustes do Modelo**:
 
    * Dentro de `app/classifier.py`, modifique parâmetros como `test_size` e `random_state` para experimentar diferentes divisões de treino/teste.
 
-## 7. Métricas de Avaliação
 
-Ao final da execução, um arquivo `report.txt` é gerado em `results/`, contendo:
+## 📸 Demonstrações
 
-* **Acurácia**
-* **Precisão (Precision)**
-* **Revocação (Recall)**
-* **F1-score**
+### Resultados via gráficos
+![Resultado do Gráfico](screenshots/grafico.png)
 
-Essas métricas permitem avaliar o desempenho do classificador em diferentes cenários.
+### Resultados via console
+![Analise de resultados no console](screenshots/resultado.png)
 
-## Autores e Contato
+* Essas métricas permitem avaliar o desempenho do classificador em diferentes cenários.
+
+## 🧠 Disciplinas Envolvidas
+
+- Linguagens Formais e Autômatos
+
+
+
+## 👥 Equipe
 
 * **Cauã Pacheco de Souza**
 * **Murilo Almeida Solino de Oliveira**
+
+## 🏫 Informações Acadêmicas
+
+- Universidade: **Universidade Braz Cubas**
+- Curso: **Ciência da Computação**
+- Semestre: 7º
+- Período: Noite
+- Professora orientadora: **Dra. Andréa Ono Sakai**
+- Evento: **Mostra de Tecnologia 1º Semestre de 2025**
+- Local: Laboratório 12
+- Datas: 05 e 06 de junho de 2025
+
+## 📄 Licença
+
+MIT License — sinta-se à vontade para utilizar, estudar e adaptar este projeto.
