@@ -40,7 +40,6 @@ winlog-classifier/
 │       ├── classifiers/        # Implementação de classificadores
 │       │   ├── rule_based.py   # Classificador baseado em regras
 │       │   └── __pycache__/
-│       ├── alert_system.py     # Sistema de emissão de alertas
 │       ├── data_loader.py      # Carregamento e pré-processamento de dados
 │       ├── ml_model.py         # Definição e treino de modelo ML
 │       ├── preprocessor.py     # Limpeza e transformação de dados

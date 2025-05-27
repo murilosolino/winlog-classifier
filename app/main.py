@@ -14,7 +14,6 @@ import nltk
 from src.data_loader import load_logs
 from src.preprocessor import preprocess_text
 from src.classifiers.rule_based import classify_log
-from src.alert_system import generate_critical_alerts
 from src.ml_model import aplicar_modelo_ia
 
 nltk.download('stopwords')
@@ -49,10 +48,7 @@ if __name__ == "__main__":
     df['Predicao_IA'] = df.get('Predicao_IA', pd.NA)
     df['Predicao_IA'] = df['Predicao_IA'].fillna(df['Classificacao'])
 
-    # 5. GERA ALERTAS
-    alertas = generate_critical_alerts(df)
-
-    # 6. VISUALIZAÇÃO DOS RESULTADOS
+    # 5. VISUALIZAÇÃO DOS RESULTADOS
     plt.figure(figsize=(15, 6))
 
     # Gráfico de distribuição
