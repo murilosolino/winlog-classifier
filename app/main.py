@@ -6,9 +6,9 @@ Fluxo principal:
 3. Classifica automaticamente
 4. Gera alertas e visualizações
 """
+import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+import plotly.express as px
 import nltk
 
 from src.data_loader import load_logs
@@ -18,65 +18,84 @@ from src.ml_model import aplicar_modelo_ia
 
 nltk.download('stopwords')
 
-# EXECUÇÃO PRINCIPAL
-if __name__ == "__main__":
-    # 1. CARREGAMENTO E PRÉ-PROCESSAMENTO
+# CONFIGURAÇÃO DA PÁGINA
+st.set_page_config(page_title="Análise de Logs Inteligente",
+                   layout="wide",
+                   page_icon="🔍")
+
+st.title("🔍 Sistema Inteligente de Análise de Logs")
+
+# SIDEBAR - Carregamento de dados
+st.sidebar.header("Configurações")
+file_uploaded = st.sidebar.file_uploader("Carregar arquivo de logs (.txt)", type=["txt"])
+use_default = st.sidebar.checkbox("Usar logs padrão", value=True)
+
+# 1. CARREGAMENTO
+if use_default:
     df = load_logs('docs/massive_logs_windows.txt')
+    st.sidebar.success("Usando logs padrão")
+elif file_uploaded:
+    df = load_logs(file_uploaded)
+    st.sidebar.success("Arquivo carregado com sucesso")
+else:
+    st.warning("⚠️ Carregue um arquivo ou use os logs padrão para continuar.")
+    st.stop()
+
+# 2. PRÉ-PROCESSAMENTO
+with st.spinner("🔄 Processando dados..."):
     df['Descricao_Processada'] = df['Descricao'].apply(preprocess_text)
 
-    # 2. CLASSIFICAÇÃO BASEADA EM REGRAS
-    df['Classificacao'] = df['ID_Evento'].apply(classify_log)
+# 3. CLASSIFICAÇÃO BASEADA EM REGRAS
+df['Classificacao'] = df['ID_Evento'].apply(classify_log)
 
-    # 3. SEPARAR E CLASSIFICAR LOGS DESCONHECIDOS COM IA
-    df_conhecidos = df[df['Classificacao'] != 'Desconhecido']
-    df_desconhecidos = df[df['Classificacao'] == 'Desconhecido'].copy()
+# 4. IA PARA LOGS DESCONHECIDOS
+df_conhecidos = df[df['Classificacao'] != 'Desconhecido']
+df_desconhecidos = df[df['Classificacao'] == 'Desconhecido'].copy()
 
-    if not df_desconhecidos.empty:
-        df_desconhecidos, metrics = aplicar_modelo_ia(df_conhecidos, df_desconhecidos)
+if not df_desconhecidos.empty:
+    df_desconhecidos, metrics = aplicar_modelo_ia(df_conhecidos, df_desconhecidos)
+    df_desconhecidos['Classificacao'] = df_desconhecidos['Predicao_IA']
+    df = pd.concat([df_conhecidos, df_desconhecidos])
+else:
+    metrics = {}
+    df['Predicao_IA'] = None
 
-        # Substituir a classificação original pelos resultados da IA
-        df_desconhecidos['Classificacao'] = df_desconhecidos['Predicao_IA']
+# 5. COMPLETA COLUNA 'Predicao_IA'
+df['Predicao_IA'] = df.get('Predicao_IA', pd.NA)
+df['Predicao_IA'] = df['Predicao_IA'].fillna(df['Classificacao'])
 
-        # Reunir os dois conjuntos
-        df = pd.concat([df_conhecidos, df_desconhecidos])
+# VISUALIZAÇÃO DAS CLASSIFICAÇÕES
+st.subheader("Distribuição de Classificações")
+fig_count = px.histogram(df, x='Predicao_IA', color='Predicao_IA',
+                         color_discrete_map={'Normal': 'green', 'Suspeito': 'orange', 'Crítico': 'red'},
+                         title='Distribuição das Classificações')
+st.plotly_chart(fig_count, use_container_width=True)
 
-    else:
-        metrics = {}
-        df['Predicao_IA'] = None  # Coluna vazia se não houve IA
+# GRÁFICO TEMPORAL
+st.subheader("Frequência de Eventos ao Longo do Tempo")
+df['Data'] = pd.to_datetime(df['Data'])
+df.set_index('Data', inplace=True)
+df_resampled = df.resample('H')['Predicao_IA'].count().reset_index()
+fig_time = px.line(df_resampled, x='Data', y='Predicao_IA', markers=True,
+                    title='Quantidade de Eventos por Hora')
+st.plotly_chart(fig_time, use_container_width=True)
 
-    # 4. GARANTIR QUE TODOS TENHAM 'Predicao_IA'
-    df['Predicao_IA'] = df.get('Predicao_IA', pd.NA)
-    df['Predicao_IA'] = df['Predicao_IA'].fillna(df['Classificacao'])
+# TABELA RESUMIDA
+st.subheader("📊 Contagem de Classificações")
+st.dataframe(df['Classificacao'].value_counts().reset_index().rename(
+    columns={'index': 'Classificacao', 'Classificacao': 'Contagem'}))
 
-    # 5. VISUALIZAÇÃO DOS RESULTADOS
-    plt.figure(figsize=(15, 6))
+# MÉTRICAS DO MODELO IA
+if metrics:
+    st.subheader("📈 Métricas do Modelo IA")
+    for label, met in metrics.items():
+        if isinstance(met, dict):
+            st.markdown(f"**Classe: {label}**") 
+            st.write({k: f"{v:.2f}" for k, v in met.items()})
 
-    # Gráfico de distribuição
-    plt.subplot(1, 2, 1)
-    sns.countplot(x='Predicao_IA', data=df,
-                  palette={'Normal': 'green', 'Suspeito': 'orange', 'Crítico': 'red'})
-    plt.title('Distribuição de Classificações')
+# DOWNLOAD DOS RESULTADOS
+csv = df.reset_index().to_csv(index=False).encode('utf-8')
+st.sidebar.download_button("📥 Baixar resultados em CSV", data=csv,
+                           file_name="resultado_logs.csv", mime="text/csv")
 
-    # Gráfico temporal
-    plt.subplot(1, 2, 2)
-    df['Data'] = pd.to_datetime(df['Data'])
-    df.set_index('Data', inplace=True)
-    df.resample('H')['Predicao_IA'].count().plot(kind='line', marker='o')
-    plt.title('Frequência de Eventos por Hora')
-
-    plt.tight_layout()
-    plt.show()
-
-    contagem_total = df['Classificacao'].value_counts()
-    print("\n📦 Contagem de classificações totais:")
-    print(contagem_total)
-
-    # 7. MÉTRICAS DO MODELO
-    if metrics:
-        print("\n📊 MÉTRICAS DO MODELO:")
-        for label, met in metrics.items():
-            if isinstance(met, dict):
-                print(f"\nClasse: {label}")
-                for k, v in met.items():
-                    print(f"  {k}: {v:.2f}")
-
+st.success("✅ Análise concluída!")
