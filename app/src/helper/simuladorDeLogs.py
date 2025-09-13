@@ -1,9 +1,12 @@
 import random
 from datetime import datetime, timedelta
+from pathlib import Path
 
 # Configurações
 NUM_LOGS = 1000
 FILE_NAME = "massive_logs_windows.txt"
+DATA_DIR = Path(__file__).resolve().parents[1] / "data"
+FILE_PATH = DATA_DIR / FILE_NAME
 
 fontes = [
     "Serviço de Backup", "Gerenciador de Atualizações", "Segurança do Sistema",
@@ -66,7 +69,7 @@ def gerar_id_evento(tipo_evento, conhecido=True):
                 return id_candidato
 
 # Geração dos logs
-with open(FILE_NAME, "w", encoding="utf-8") as file:
+with open(FILE_PATH, "w", encoding="utf-8") as file:
     base_time = datetime.now() - timedelta(days=30)
 
     for _ in range(NUM_LOGS):
@@ -102,4 +105,4 @@ with open(FILE_NAME, "w", encoding="utf-8") as file:
             f"Descrição: {descricao_formatada}\n\n"
         )
 
-print(f"✅ Arquivo {FILE_NAME} gerado com {NUM_LOGS} logs mistos (conhecidos e desconhecidos).")
+print(f"✅ Arquivo {FILE_PATH} gerado com {NUM_LOGS} logs mistos (conhecidos e desconhecidos).")
