@@ -9,7 +9,6 @@ Fluxo principal:
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import nltk
 import sys
 from pathlib import Path
 
@@ -20,8 +19,6 @@ from src.data.data_loader import load_logs
 from src.pre_processor.preprocessor import preprocess_text 
 from src.classifiers.rule_based import classify_log
 from src.ml.ml_model import aplicar_modelo_ia
-
-nltk.download('stopwords')
 
 # CONFIGURAÇÃO DA PÁGINA
 st.set_page_config(page_title="Análise de Logs Inteligente",
