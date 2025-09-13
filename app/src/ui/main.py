@@ -12,6 +12,7 @@ from src.pre_processor.preprocessor import preprocess_text
 from src.classifiers.rule_based import classify_log
 from src.ml.ml_model import aplicar_modelo_ia
 from src.ml.naive_bayes_model import aplicar_modelo_naive_bayes
+from src.helper.confusion_matrix_helper import criar_matriz_confusao
 
 st.set_page_config(page_title="Análise de Logs Inteligente",
                    layout="wide",
@@ -108,6 +109,8 @@ if metrics:
             if isinstance(met, dict):
                 st.markdown(f"**Classe: {label}**") 
                 st.write({k: f"{v:.2f}" for k, v in met.items()})
+    
+    criar_matriz_confusao(df_conhecidos, modelo_selecionado)
 
 csv = df.reset_index().to_csv(index=False).encode('utf-8')
 st.sidebar.download_button("📥 Baixar resultados em CSV", data=csv,
