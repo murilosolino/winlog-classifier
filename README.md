@@ -32,22 +32,25 @@ Todas as dependências estão listadas em `requirements.txt`.
 ```
 winlog-classifier/
 ├── app/
-│   ├── docs/                   # Documentos e ambiente
-│   │   ├── logAppsWindows.txt  # Regras e mapeamentos de Event IDs
-│   │   ├── massive_logs_windows.txt  # Exemplo de logs
-│   │   └── requirements.txt    # Dependências Python
-│   └── src/                    # Código-fonte
-│       ├── classifiers/        # Implementação de classificadores
-│       │   ├── rule_based.py   # Classificador baseado em regras
-│       │   └── __pycache__/
-│       ├── data_loader.py      # Carregamento e pré-processamento de dados
-│       ├── ml_model.py         # Definição e treino de modelo ML
-│       ├── preprocessor.py     # Limpeza e transformação de dados
-│       ├── main.py             # Ponto de entrada da aplicação
-│       ├── no_ia.py            # Fluxo sem uso de IA (apenas regras)
-│       └── simuladorDeLogs.py  # Gerador de logs de teste
+│   ├── src/                    # Código-fonte
+│   │   ├── classifiers/        # Implementação de classificadores
+│   │   │   └── rule_based.py   # Classificador baseado em regras
+│   │   ├── data/              # Dados e carregamento
+│   │   │   ├── data_loader.py  # Carregamento de dados
+│   │   │   ├── logAppsWindows.txt  # Regras e mapeamentos de Event IDs
+│   │   │   └── massive_logs_windows.txt  # Exemplo de logs
+│   │   ├── helper/            # Scripts auxiliares
+│   │   │   └── simuladorDeLogs.py  # Gerador de logs de teste
+│   │   ├── ml/                # Modelos de Machine Learning
+│   │   │   └── ml_model.py    # Definição e treino de modelo ML
+│   │   ├── pre_processor/     # Processamento de dados
+│   │   │   └── preprocessor.py  # Limpeza e transformação de dados
+│   │   └── ui/                # Interface do usuário
+│   │       ├── main.py        # Aplicação principal com Streamlit
+│   │       └── no_ia.py       # Fluxo sem uso de IA
+│   └── __init__.py            # Arquivo de inicialização do pacote
 ├── .gitignore
-└── README.md                   # Este arquivo
+└── README.md                  # Este arquivo
 ```
 
 ## 5. Pré-requisitos
