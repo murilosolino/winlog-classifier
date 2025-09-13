@@ -20,10 +20,11 @@ O sistema identifica e alerta sobre logs com indícios de criticidade, além de 
 ## 3. Tecnologias Utilizadas
 
 * **Python 3.6+**
-* **scikit-learn**: criação e aplicação de modelos de ML;
-* **pandas**: manipulação de dados;
-* **matplotlib**, **seaborn**: geração de gráficos.
+* **scikit-learn**: criação e aplicação de modelos de ML
+* **pandas**: manipulação de dados
+* **plotly**: geração de gráficos interativos
 * **nltk**: processamento de linguagem natural
+* **streamlit**: interface web interativa
 
 Todas as dependências estão listadas em `requirements.txt`.
 
