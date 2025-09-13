@@ -1,11 +1,6 @@
 import pandas as pd
 
 def load_logs(file_path):
-    """
-    CARREGAMENTO DE DADOS
-    Transforma arquivo de logs não estruturado em DataFrame organizado
-    Extrai: Data, Fonte, ID do Evento e Descrição
-    """
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read().split('\n\n')
     

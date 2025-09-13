@@ -11,12 +11,10 @@ from src.data.data_loader import load_logs
 from src.pre_processor.preprocessor import preprocess_text 
 from src.classifiers.rule_based import classify_log
 
-# CONFIGURAÇÃO DA PÁGINA
 st.set_page_config(page_title="Análise de Logs (Regras)", layout="wide", page_icon="🔍")
 
 st.title("🔍 Sistema de Análise de Logs - Classificação por Regras")
 
-# SIDEBAR - Carregamento de dados
 st.sidebar.header("Configurações")
 file_uploaded = st.sidebar.file_uploader("Carregar arquivo de logs (.txt)", type=["txt"])
 use_default = st.sidebar.checkbox("Usar logs padrão", value=True)
@@ -39,14 +37,12 @@ with st.spinner("🔄 Processando dados..."):
 # 3. CLASSIFICAÇÃO BASEADA EM REGRAS
 df['Classificacao'] = df['ID_Evento'].apply(classify_log)
 
-# VISUALIZAÇÃO DAS CLASSIFICAÇÕES
 st.subheader("Distribuição de Classificações")
 fig_count = px.histogram(df, x='Classificacao', color='Classificacao',
                          color_discrete_map={'Normal': 'green', 'Suspeito': 'orange', 'Crítico': 'red', 'Desconhecido': 'black'},
                          title='Distribuição das Classificações')
 st.plotly_chart(fig_count, use_container_width=True)
 
-# GRÁFICO TEMPORAL
 st.subheader("Frequência de Eventos ao Longo do Tempo")
 df['Data'] = pd.to_datetime(df['Data'])
 df.set_index('Data', inplace=True)
@@ -55,12 +51,10 @@ fig_time = px.line(df_resampled, x='Data', y='Classificacao', markers=True,
                     title='Quantidade de Eventos por Hora')
 st.plotly_chart(fig_time, use_container_width=True)
 
-# TABELA DE CONTAGEM
 st.subheader("📦 Contagem de Classificações")
 st.dataframe(df['Classificacao'].value_counts().reset_index().rename(
     columns={'index': 'Classificacao', 'Classificacao': 'Contagem'}))
 
-# DOWNLOAD DOS RESULTADOS
 csv = df.reset_index().to_csv(index=False).encode('utf-8')
 st.sidebar.download_button("📥 Baixar resultados em CSV", data=csv,
                            file_name="resultado_logs.csv", mime="text/csv")

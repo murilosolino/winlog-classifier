@@ -9,7 +9,7 @@ def aplicar_modelo_ia(df_treino: pd.DataFrame, df_predicao: pd.DataFrame):
     # Verificar se temos dados de treino suficientes
     if df_treino['Classificacao'].nunique() < 2:
         print("⚠️ Não há classes suficientes para treinar o modelo.")
-        df_predicao['Predicao_IA'] = 'Normal'  # fallback padrão
+        df_predicao['Predicao_IA'] = 'Normal'
         return df_predicao, {}
 
     # Vetorização TF-IDF no conjunto combinado

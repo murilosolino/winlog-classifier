@@ -1,11 +1,3 @@
-"""
-SISTEMA DE ANÁLISE DE LOGS INTELIGENTE
-Fluxo principal:
-1. Carrega logs brutos
-2. Pré-processa o texto
-3. Classifica automaticamente
-4. Gera alertas e visualizações
-"""
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -20,14 +12,12 @@ from src.pre_processor.preprocessor import preprocess_text
 from src.classifiers.rule_based import classify_log
 from src.ml.ml_model import aplicar_modelo_ia
 
-# CONFIGURAÇÃO DA PÁGINA
 st.set_page_config(page_title="Análise de Logs Inteligente",
                    layout="wide",
                    page_icon="🔍")
 
 st.title("🔍 Sistema Inteligente de Análise de Logs")
 
-# SIDEBAR - Carregamento de dados
 st.sidebar.header("Configurações")
 file_uploaded = st.sidebar.file_uploader("Carregar arquivo de logs (.txt)", type=["txt"])
 use_default = st.sidebar.checkbox("Usar logs padrão", value=True)
@@ -66,14 +56,13 @@ else:
 df['Predicao_IA'] = df.get('Predicao_IA', pd.NA)
 df['Predicao_IA'] = df['Predicao_IA'].fillna(df['Classificacao'])
 
-# VISUALIZAÇÃO DAS CLASSIFICAÇÕES
 st.subheader("Distribuição de Classificações")
 fig_count = px.histogram(df, x='Predicao_IA', color='Predicao_IA',
                          color_discrete_map={'Normal': 'green', 'Suspeito': 'orange', 'Crítico': 'red'},
                          title='Distribuição das Classificações')
 st.plotly_chart(fig_count, use_container_width=True)
 
-# GRÁFICO TEMPORAL
+
 st.subheader("Frequência de Eventos ao Longo do Tempo")
 df['Data'] = pd.to_datetime(df['Data'])
 df.set_index('Data', inplace=True)
@@ -82,12 +71,10 @@ fig_time = px.line(df_resampled, x='Data', y='Predicao_IA', markers=True,
                     title='Quantidade de Eventos por Hora')
 st.plotly_chart(fig_time, use_container_width=True)
 
-# TABELA RESUMIDA
 st.subheader("📊 Contagem de Classificações")
 st.dataframe(df['Classificacao'].value_counts().reset_index().rename(
     columns={'index': 'Classificacao', 'Classificacao': 'Contagem'}))
 
-# MÉTRICAS DO MODELO IA
 if metrics:
     st.subheader("📈 Métricas do Modelo IA")
     for label, met in metrics.items():
@@ -95,7 +82,6 @@ if metrics:
             st.markdown(f"**Classe: {label}**") 
             st.write({k: f"{v:.2f}" for k, v in met.items()})
 
-# DOWNLOAD DOS RESULTADOS
 csv = df.reset_index().to_csv(index=False).encode('utf-8')
 st.sidebar.download_button("📥 Baixar resultados em CSV", data=csv,
                            file_name="resultado_logs.csv", mime="text/csv")
