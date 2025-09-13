@@ -62,44 +62,48 @@ winlog-classifier/
 ## 6. Passo a Passo para Rodar o Projeto
 
 1. **Clonar o repositório**:
-
    ```bash
    git clone https://github.com/murilosolino/winlog-classifier.git
    cd winlog-classifier
-   ``
-3. **Instalar dependências**:
-
-   ```bash
-   pip install pandas
-   pip install nltk
-   pip install matplotlib
-   pip install seaborn
-   pip install scikit-learn
    ```
 
-4. **Preparar os dados de logs**:
+2. **Instalar dependências**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-   * Por padrão, o arquivo de exemplo `massive_logs_windows.txt` já está pronto em `app/docs/`.
-   * Caso deseje é possível gerar um novo arquivo rodando o script **simuladorDeLogs.py**
+3. **Preparar os dados de logs**:
+   * Por padrão, o arquivo de exemplo `massive_logs_windows.txt` já está disponível em `app/src/data/`
+   * Para gerar um novo arquivo de logs, execute:
+   ```bash
+   python -m app.src.helper.simuladorDeLogs
+   ```
 
-5. **Executar Projeto**
-    * Para executar o Projeto utilize os seguintes comandos uma vez estando no diretorio `winlog-classifier`.
-    * cd app
-    * py main.py 
-
-    * Para executar o exemplo sem o uso de IA utilize os seguintes comandos uma vez estando no diretorio `winlog-classifier`
-    * cd app
-    * py no_ia.py 
-
-6. **Visualizar resultados**:
-
-   * Alertas de criticidade serão exibidos no terminal.
-   * Gráficos de status geral dos logs e relatório de performance estarão em `results/`.
+4. **Executar o projeto**:
+   * Para iniciar a aplicação web com Streamlit:
+   ```bash
+   cd app
+   streamlit run src/ui/main.py
+   ```
    
+   * Para executar a versão sem IA:
+   ```bash
+   streamlit run src/ui/no_ia.py
+   ```
 
-7. **(Opcional) Ajustes do Modelo**:
+5. **Acessar a interface**:
+   * A aplicação abrirá automaticamente no seu navegador padrão
+   * Caso não abra, acesse: `http://localhost:8501`
 
-   * Dentro de `app/classifier.py`, modifique parâmetros como `test_size` e `random_state` para experimentar diferentes divisões de treino/teste.
+6. **Usar a aplicação**:
+   * Carregue um arquivo de logs ou use o conjunto de dados padrão
+   * Visualize gráficos e métricas em tempo real
+   * Faça download dos resultados em formato CSV
+
+7. **(Opcional) Customização**:
+   * Ajuste parâmetros do modelo em `src/ml/ml_model.py`
+   * Modifique regras de classificação em `src/classifiers/rule_based.py`
+   * Personalize a interface em `src/ui/main.py`
 
 
 ## 📸 Demonstrações
