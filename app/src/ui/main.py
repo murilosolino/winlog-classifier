@@ -10,11 +10,16 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import nltk
+import sys
+from pathlib import Path
 
-from src.data_loader import load_logs
-from src.preprocessor import preprocess_text
+root_dir = str(Path(__file__).resolve().parents[2])
+sys.path.append(root_dir)
+
+from src.data.data_loader import load_logs
+from src.pre_processor.preprocessor import preprocess_text 
 from src.classifiers.rule_based import classify_log
-from src.ml_model import aplicar_modelo_ia
+from src.ml.ml_model import aplicar_modelo_ia
 
 nltk.download('stopwords')
 
@@ -32,7 +37,7 @@ use_default = st.sidebar.checkbox("Usar logs padrão", value=True)
 
 # 1. CARREGAMENTO
 if use_default:
-    df = load_logs('docs/massive_logs_windows.txt')
+    df = load_logs('../data/massive_logs_windows.txt')
     st.sidebar.success("Usando logs padrão")
 elif file_uploaded:
     df = load_logs(file_uploaded)
