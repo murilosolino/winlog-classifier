@@ -32,7 +32,8 @@ modelo_selecionado = st.sidebar.selectbox(
 
 # 1. CARREGAMENTO
 if use_default:
-    df = load_logs('../data/massive_logs_windows.txt')
+    data_path = Path(__file__).resolve().parents[2] / "src" / "data" / "massive_logs_windows.txt"
+    df = load_logs(str(data_path))
     st.sidebar.success("Usando logs padrão")
 elif file_uploaded:
     df = load_logs(file_uploaded)
